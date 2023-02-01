@@ -16,5 +16,5 @@ Finalmente, se pedía sugerir un `KPI` para la evaluación del negocio. En este 
 
 ## **Fuente de datos**
 
-+ Los archivos con los datos de las plataformas de Cursos online (después de la transformación) se encuentran en la carpeta Datasets, en este mismo repositorio.
-+ El Análisis Exploratorio de los Datos y el dashboard se encuentran en la carpeta Análisis.
++ Los archivos con los datos de las plataformas de Cursos online (después de la transformación) se encuentran en la carpeta Datasets.
++ El [Análisis Exploratorio de los Datos](https://github.com/SheilaFrancisco/ProyectoIndividual03-Analytics/blob/main/An%C3%A1lisis/EDA_MOOC.ipynb) y el [dashboard](https://github.com/SheilaFrancisco/ProyectoIndividual03-Analytics/blob/main/An%C3%A1lisis/Dashboard.pbix) se encuentran en la carpeta Análisis.
