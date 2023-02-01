@@ -1,0 +1,975 @@
+,title,n_enrolled,course_type,institution,Level,subject,language,subtitles,course_effort,course_length,precio_certificado
+0,How to Learn Online,124980,Self-paced on your time,edX,Introductory,Education & Teacher Training,Inglés,Inglés,2–3 hours per week,2 Weeks,49
+1,Programming for Everybody (Getting Started with Python),293864,Self-paced on your time,The University of Michigan,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+2,CS50's Introduction to Computer Science,2442271,Self-paced on your time,Harvard University,Introductory,Computer Science,Inglés,Inglés,6–18 hours per week,12 Weeks,90
+3,The Analytics Edge,129555,Instructor-led on a course schedule,Massachusetts Institute of Technology,Intermediate,Data Analysis & Statistics,Inglés,Inglés,10–15 hours per week,13 Weeks,199
+4,Marketing Analytics: Marketing Measurement Strategy,81140,Self-paced on your time,"University of California, Berkeley",Introductory,Computer Science,Inglés,Inglés,5–7 hours per week,4 Weeks,249
+5,Introduction to Project Management,301793,Self-paced on your time,University of Adelaide,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,6 Weeks,199
+6,Leading High-Performing Teams,32847,Self-paced on your time,The University of Queensland,Intermediate,Communication,Inglés,Inglés,8–10 hours per week,10 Weeks,5
+7,The Foundations of Happiness at Work,67073,Self-paced on your time,"University of California, Berkeley",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+8,"Managing Study, Stress and Mental Health at University",23061,Self-paced on your time,Curtin University,Introductory,Health & Safety,Inglés,Inglés,1–3 hours per week,2 Weeks,49
+9,Six Sigma: Define and Measure,92411,Self-paced on your time,Technische Universität München,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,8 Weeks,99
+10,Fat Chance: Probability from the Ground Up,66835,Self-paced on your time,Harvard University,Introductory,Math,Inglés,Inglés,3–5 hours per week,7 Weeks,49
+11,Chasing your Dream: How to End Procrastination and Get a Job You Love,44711,Self-paced on your time,National Research Nuclear University,Introductory,Communication,Inglés,Inglés,2–6 hours per week,5 Weeks,49
+12,Bitcoin and Cryptocurrencies,83398,Self-paced on your time,"University of California, Berkeley",Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,6 Weeks,99
+13,English Grammar and Style,0,Instructor-led on a course schedule,The University of Queensland,Introductory,Humanities,Inglés,Inglés,3–4 hours per week,8 Weeks,99
+14,Ethics in Action,6366,Self-paced on your time,SDG Academy,Intermediate,Ethics,Inglés,"Inglés, Español, Русский",2–4 hours per week,10 Weeks,49
+15,Introduction to FinTech,72767,Self-paced on your time,University of Hong Kong,Introductory,Economics & Finance,Inglés,"Inglés, Chino, Chino",1–3 hours per week,6 Weeks,199
+16,Data Science: R Basics,528782,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+17,Python Basics for Data Science,228809,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,2–5 hours per week,5 Weeks,39
+18,The Science of Beer,39085,Self-paced on your time,Wageningen University & Research,Introductory,Food & Nutrition,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+19,Strategic Social Media Marketing,103640,Instructor-led on a course schedule,Boston University,Advanced,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,399
+20,CS50's Introduction to Artificial Intelligence with Python,258006,Self-paced on your time,Harvard University,Introductory,Computer Science,Inglés,Inglés,10–30 hours per week,7 Weeks,199
+21,CS50's Introduction to Game Development,346748,Self-paced on your time,Harvard University,Intermediate,Computer Science,Inglés,Inglés,6–9 hours per week,12 Weeks,149
+22,Rhetoric: The Art of Persuasive Writing and Public Speaking,320225,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,2–3 hours per week,8 Weeks,99
+23,CS50's Web Programming with Python and JavaScript,698950,Self-paced on your time,Harvard University,Intermediate,Computer Science,Inglés,Inglés,6–9 hours per week,12 Weeks,90
+24,Contract Law: From Trust to Promise to Contract,414181,Self-paced on your time,Harvard University,Intermediate,Business & Management,Inglés,Inglés,3–6 hours per week,8 Weeks,125
+25,"Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",380167,Self-paced on your time,Harvard University,Introductory,Biology & Life Sciences,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+26,Justice,392588,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,"Alemán, Inglés, Español, Portugués, Chino",3–6 hours per week,12 Weeks,99
+27,Data Science: Machine Learning,276209,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,8 Weeks,49
+28,Child Protection: Children's Rights in Theory and Practice,212453,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,2–6 hours per week,16 Weeks,99
+29,IELTS Academic Test Preparation,1103777,Self-paced on your time,The University of Queensland,Introductory,Communication,Inglés,Inglés,5–10 hours per week,8 Weeks,99
+30,The Architectural Imagination,406181,Self-paced on your time,Harvard University,Introductory,Architecture,Inglés,Inglés,3–5 hours per week,10 Weeks,99
+31,TOEFL® Test Preparation: The Insider’s Guide,1022489,Self-paced on your time,Educational Testing Service,Introductory,Communication,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+32,Principles of Biochemistry,257600,Self-paced on your time,Harvard University,Intermediate,Medicine,Inglés,Inglés,4–6 hours per week,15 Weeks,199
+33,Using Python for Research,262183,Self-paced on your time,Harvard University,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,12 Weeks,99
+34,Hinduism Through Its Scriptures,140782,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+35,Basic Spanish 1: Getting Started,400169,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Communication,Inglés,"Inglés, Español",4–5 hours per week,7 Weeks,40
+36,The Health Effects of Climate Change,110024,Self-paced on your time,Harvard University,Introductory,Environmental Studies,Inglés,Inglés,3–5 hours per week,7 Weeks,99
+37,Inglés básico: conversacional y networking,79671,Self-paced on your time,Universidades Anáhuac,Introductory,Business & Management,Español,"Inglés, Español",5–8 hours per week,4 Weeks,49
+38,Statistics and R,314586,Self-paced on your time,Harvard University,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,4 Weeks,249
+39,Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),145011,Self-paced on your time,Harvard University,Introductory,Chemistry,Inglés,Inglés,2–3 hours per week,16 Weeks,199
+40,Pyramids of Giza: Ancient Egyptian Art and Archaeology,123870,Self-paced on your time,Harvard University,Introductory,Art & Culture,Inglés,Inglés,2–4 hours per week,8 Weeks,99
+41,"PredictionX: Omens, Oracles & Prophecies",91566,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,3–5 hours per week,1 Weeks,25
+42,Excel: Fundamentos y herramientas,284279,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,3–4 hours per week,8 Weeks,50
+43,Lessons from Ebola: Preventing the Next Pandemic,91983,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,3–5 hours per week,4 Weeks,49
+44,Improving Global Health: Focusing on Quality and Safety,127353,Self-paced on your time,Harvard University,Intermediate,Social Sciences,Inglés,Inglés,2–4 hours per week,10 Weeks,99
+45,CS50 for Lawyers,87336,Self-paced on your time,Harvard University,Introductory,Computer Science,Inglés,Inglés,3–6 hours per week,10 Weeks,99
+46,Data Science: Visualization,171258,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+47,Christianity Through Its Scriptures,125051,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+48,The Science of Happiness,475614,Self-paced on your time,"University of California, Berkeley",Introductory,Social Sciences,Inglés,Inglés,4–5 hours per week,11 Weeks,169
+49,Leaders of Learning,231131,Self-paced on your time,Harvard University,Introductory,Communication,Inglés,"Inglés, Español",2–4 hours per week,10 Weeks,99
+50,Exercising Leadership: Foundational Principles,57814,Self-paced on your time,Harvard University,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,99
+51,Data Science: Probability,135859,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+52,Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,117410,Self-paced on your time,Harvard University,Intermediate,Education & Teacher Training,Inglés,"Inglés, Español",1–2 hours per week,10 Weeks,70
+53,"Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",80082,Self-paced on your time,Harvard University,Introductory,Medicine,Inglés,Inglés,2–5 hours per week,8 Weeks,99
+54,Introduction to Family Engagement in Education,105146,Self-paced on your time,Harvard University,Introductory,Education & Teacher Training,Inglés,Inglés,2–4 hours per week,6 Weeks,70
+55,Italian Language and Culture: Beginner (2019-2020),182462,Self-paced on your time,Wellesley College,Introductory,Language,Italiano,Italiano,2–5 hours per week,12 Weeks,49
+56,Steps in Japanese for Beginners1 Part1,53630,Self-paced on your time,Waseda University,Introductory,Language,Inglés,"Inglés, Chino",3–5 hours per week,5 Weeks,49
+57,How to Write an Essay,306787,Self-paced on your time,"University of California, Berkeley",Introductory,Humanities,Inglés,Inglés,5–6 hours per week,5 Weeks,49
+58,Energy Within Environmental Constraints,95324,Self-paced on your time,Harvard University,Introductory,Environmental Studies,Inglés,Inglés,3–5 hours per week,10 Weeks,99
+59,Introduction to Probability,97291,Self-paced on your time,Harvard University,Intermediate,Data Analysis & Statistics,Inglés,Inglés,5–10 hours per week,10 Weeks,99
+60,AnatomyX: Musculoskeletal Cases,102075,Self-paced on your time,Harvard University,Intermediate,Medicine,Inglés,Inglés,3–6 hours per week,7 Weeks,99
+61,Data Science: Inference and Modeling,88256,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+62,Strengthening Community Health Worker Programs,58626,Self-paced on your time,Harvard University,Introductory,Health & Safety,Inglés,Inglés,2–4 hours per week,6 Weeks,79
+63,Buddhism Through Its Scriptures,182295,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+64,Introduction to Linux,642088,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,5–7 hours per week,14 Weeks,199
+65,"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",81221,Self-paced on your time,Harvard University,Introductory,Medicine,Inglés,Inglés,1–2 hours per week,10 Weeks,99
+66,Shakespeare's Life and Work,48938,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–7 hours per week,4 Weeks,49
+67,Marketing Digital: Content & Community Manager,112623,Self-paced on your time,Universidad Galileo,Introductory,Communication,Español,Español,3–4 hours per week,5 Weeks,49
+68,Accounting and Finance,88243,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,"Inglés, हिन्दी",2–4 hours per week,11 Weeks,150
+69,Computing in Python I: Fundamentals and Procedural Programming,141966,Self-paced on your time,The Georgia Institute of Technology,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,5 Weeks,99
+70,"Nutrition, Exercise and Sports",51679,Self-paced on your time,Wageningen University & Research,Intermediate,Food & Nutrition,Inglés,Inglés,4–8 hours per week,6 Weeks,49
+71,Becoming an Entrepreneur,104760,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,1–3 hours per week,6 Weeks,69
+72,"Religion, Conflict and Peace",74060,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,4–8 hours per week,8 Weeks,49
+73,"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",61139,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,1–3 hours per week,10 Weeks,49
+74,Academic and Business Writing,322701,Self-paced on your time,"University of California, Berkeley",Introductory,Communication,Inglés,Inglés,3–5 hours per week,6 Weeks,49
+75,Data Science: Capstone,62803,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,15–20 hours per week,2 Weeks,99
+76,Basics of Computing and Programming,37045,Self-paced on your time,New York University,Introductory,Computer Science,Inglés,Inglés,6–8 hours per week,9 Weeks,200
+77,"Fundamentals of Neuroscience, Part 2: Neurons and Networks",84874,Self-paced on your time,Harvard University,Introductory,Biology & Life Sciences,Inglés,Inglés,3–5 hours per week,6 Weeks,99
+78,Successful Negotiation: Essential Strategies and Skills,31369,Self-paced on your time,The University of Michigan,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+79,Data Science: Linear Regression,75310,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+80,HTML5 and CSS Fundamentals,335895,Self-paced on your time,The World Wide Web Consortium (W3C),Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,6 Weeks,199
+81,Data Science: Productivity Tools,66683,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+82,Introduction to Corporate Finance,98093,Self-paced on your time,Columbia University,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,4 Weeks,225
+83,Computer Science 101,39540,Self-paced on your time,Stanford University,Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,6 Weeks,149
+84,Data Science: Wrangling,64584,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–2 hours per week,8 Weeks,49
+85,A Hands-on Introduction to Engineering Simulations,187138,Self-paced on your time,Cornell University,Intermediate,Engineering,Inglés,Inglés,4–6 hours per week,6 Weeks,199
+86,AI for Everyone: Master the Basics,49340,Self-paced on your time,IBM,Introductory,Computer Science,Inglés,Inglés,1–2 hours per week,4 Weeks,49
+87,The Psychology of Criminal Justice,110086,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,8 Weeks,99
+88,Machine Learning with Python: A Practical Introduction,80161,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,4–6 hours per week,5 Weeks,39
+89,Analyzing Data with Python,94079,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,39
+90,Excel: gestión de datos,111785,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Computer Science,Español,Español,4–6 hours per week,6 Weeks,75
+91,Probability - The Science of Uncertainty and Data,205615,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Data Analysis & Statistics,Inglés,Inglés,10–14 hours per week,16 Weeks,300
+92,"Fundamentals of Neuroscience, Part 3: The Brain",85034,Self-paced on your time,Harvard University,Introductory,Biology & Life Sciences,Inglés,Inglés,3–5 hours per week,8 Weeks,99
+93,Sikhism Through Its Scriptures,44125,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+94,Upper-Intermediate English: Business and Modern Life,77991,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,50
+96,Religious Literacy: Traditions and Scriptures,96972,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+97,Programación para todos (empezando con Python),81004,Self-paced on your time,The University of Michigan,Introductory,Computer Science,Español,Español,2–4 hours per week,7 Weeks,49
+98,Analyzing and Visualizing Data with Power BI,28879,Self-paced on your time,Davidson College,Introductory,Data Analysis & Statistics,Inglés,Inglés,10–20 hours per week,4 Weeks,99
+99,High-Dimensional Data Analysis,78443,Self-paced on your time,Harvard University,Advanced,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,4 Weeks,149
+100,Introduction To Music Theory,67029,Self-paced on your time,Berklee College of Music,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,6 Weeks,49
+101,Human Anatomy,126850,Self-paced on your time,The Hong Kong Polytechnic University,Introductory,Medicine,Inglés,Inglés,2–4 hours per week,8 Weeks,139
+102,"CitiesX: The Past, Present and Future of Urban Life",76874,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,"Inglés, Portugués",5–7 hours per week,11 Weeks,99
+103,The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,24208,Self-paced on your time,Harvard University,Introductory,Philosophy & Ethics,Inglés,Inglés,1–2 hours per week,13 Weeks,99
+104,Entrepreneurship 101: Who is your customer?,41838,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,10 Weeks,49
+105,"U.S. Public Policy: Social, Economic, and Foreign Policies",44045,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+106,Machine Learning with Python: from Linear Models to Deep Learning,85561,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Computer Science,Inglés,Inglés,10–14 hours per week,15 Weeks,300
+107,Introduction to Data Science,43766,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,3–6 hours per week,6 Weeks,39
+108,Circuits and Electronics 1: Basic Circuit Analysis,52639,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Electronics,Inglés,"Inglés, Chino",5–7 hours per week,5 Weeks,169
+109,Introduction to Investments,91788,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,Inglés,3–5 hours per week,5 Weeks,50
+110,Improving Your Business Through a Culture of Health,54136,Self-paced on your time,Harvard University,Introductory,Business & Management,Inglés,Inglés,1–3 hours per week,9 Weeks,99
+111,Introduction to Linear Models and Matrix Algebra,92004,Self-paced on your time,Harvard University,Intermediate,Math,Inglés,Inglés,2–4 hours per week,4 Weeks,149
+112,DO Your Venture: Entrepreneurship For Everyone,61989,Self-paced on your time,Indian Institute of Management Bangalore,Introductory,Business & Management,Inglés,"Inglés, हिन्दी",3–4 hours per week,6 Weeks,150
+113,El valor de la creatividad y la innovación: La Economía Naranja,23728,Self-paced on your time,Inter-American Development Bank,Introductory,Art & Culture,Español,Español,2–4 hours per week,8 Weeks,25
+114,Humanitarian Response to Conflict and Disaster,119891,Self-paced on your time,Harvard University,Introductory,Health & Safety,Inglés,Inglés,3–4 hours per week,5 Weeks,99
+115,"Women Making History: Ten Objects, Many Stories",38939,Self-paced on your time,Harvard University,Introductory,History,Inglés,Inglés,2–3 hours per week,8 Weeks,99
+116,Masterpieces of World Literature,88789,Self-paced on your time,Harvard University,Introductory,Literature,Inglés,Inglés,5–7 hours per week,12 Weeks,149
+117,SQL for Data Science,39184,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,4 Weeks,39
+118,El cerebro y las emociones en el lenguaje,41279,Self-paced on your time,Universidad del Rosario,Introductory,Communication,Español,Español,4–5 hours per week,5 Weeks,49
+119,Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),62673,Self-paced on your time,Harvard University,Introductory,Physics,Inglés,Inglés,2–3 hours per week,16 Weeks,169
+120,Python: aprender a programar,21613,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,3–4 hours per week,8 Weeks,49
+121,Marketing Analytics: Competitive Analysis and Market Segmentation,70682,Self-paced on your time,"University of California, Berkeley",Intermediate,Computer Science,Inglés,Inglés,5–7 hours per week,4 Weeks,249
+122,MalariaX: Defeating Malaria from the Genes to the Globe,37598,Self-paced on your time,Harvard University,Intermediate,Biology & Life Sciences,Inglés,"Inglés, Francés",3–5 hours per week,8 Weeks,49
+123,Entrepreneurship in Emerging Economies,113602,Self-paced on your time,Harvard University,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,6 Weeks,125
+124,JavaScript Introduction,160112,Self-paced on your time,The World Wide Web Consortium (W3C),Introductory,Computer Science,Inglés,Inglés,6–8 hours per week,5 Weeks,199
+125,People Management,113592,Self-paced on your time,Indian Institute of Management Bangalore,Introductory,Business & Management,Inglés,"Inglés, हिन्दी",2–4 hours per week,6 Weeks,150
+126,Using Email for Networking in English,57208,Self-paced on your time,University of Washington,Introductory,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,149
+127,Databases: Relational Databases and SQL,20502,Self-paced on your time,Stanford University,Introductory,Computer Science,Inglés,Inglés,8–10 hours per week,2 Weeks,50
+128,C Programming: Getting Started,104108,Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+129,Supply Chain Analytics,145049,Instructor-led on a course schedule,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,8–12 hours per week,15 Weeks,199
+130,Programming for the Web with JavaScript,91406,Self-paced on your time,University of Pennsylvania,Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,4 Weeks,149
+131,Introduction to Digital Humanities,37501,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,2–4 hours per week,7 Weeks,99
+132,Upper-Intermediate English: Business and Industry,103704,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,50
+133,EmSAT English Preparation - Level 1,29101,Self-paced on your time,United Arab Emirates University,Introductory,Language,Inglés,Inglés,2–3 hours per week,6 Weeks,49
+134,Python for Data Science,266978,Self-paced on your time,"The University of California, San Diego",Advanced,Data Analysis & Statistics,Inglés,Inglés,8–10 hours per week,10 Weeks,350
+135,Empathy and Emotional Intelligence at Work,45867,Self-paced on your time,"University of California, Berkeley",Introductory,Business & Management,Inglés,Inglés,1–2 hours per week,4 Weeks,199
+136,Design Thinking and Creativity for Innovation,47549,Self-paced on your time,The University of Queensland,Intermediate,Business & Management,Inglés,Inglés,8–10 hours per week,10 Weeks,5
+137,China and Communism,69104,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+138,Mandarin Chinese Level 1,56040,Self-paced on your time,MandarinX,Introductory,Language,Inglés,Inglés,4–10 hours per week,6 Weeks,149
+139,Introduction to Biology - The Secret of Life,147512,Instructor-led on a course schedule,Massachusetts Institute of Technology,Introductory,Biology & Life Sciences,Inglés,"Inglés, Chino",5–10 hours per week,16 Weeks,150
+140,Photoshop: una herramienta para presentaciones innovadoras,22969,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Art & Culture,Español,Español,8–10 hours per week,5 Weeks,19
+141,Causal Diagrams: Draw Your Assumptions Before Your Conclusions,50949,Self-paced on your time,Harvard University,Introductory,Data Analysis & Statistics,Inglés,Inglés,2–3 hours per week,9 Weeks,99
+142,生活英语听说 | Conversational English Skills,301585,Self-paced on your time,Tsinghua University,Introductory,Communication,Inglés,Inglés,2–4 hours per week,10 Weeks,49
+143,Shakespeare’s Othello: The Moor,31868,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–7 hours per week,4 Weeks,49
+144,Basic Spanish 2: One Step Further,67687,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Language,Inglés,"Inglés, Español",4–5 hours per week,4 Weeks,50
+145,Financial Market Analysis,37452,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,8–10 hours per week,7 Weeks,25
+146,CS50's Computer Science for Business Professionals,73208,Self-paced on your time,Harvard University,Introductory,Computer Science,Inglés,Inglés,2–6 hours per week,6 Weeks,90
+147,Gobierno Digital,18883,Self-paced on your time,Inter-American Development Bank,Introductory,Social Sciences,Español,Español,1–2 hours per week,8 Weeks,25
+148,Upper-Intermediate English: Business and Globalization,58532,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,50
+149,The Opioid Crisis in America,54805,Self-paced on your time,Harvard University,Introductory,Medicine,Inglés,Inglés,1–2 hours per week,10 Weeks,99
+150,Gestión de Proyectos de Desarrollo,306286,Self-paced on your time,Inter-American Development Bank,Introductory,Business & Management,Español,Español,3–4 hours per week,10 Weeks,49
+151,Statistical Learning,27968,Self-paced on your time,Stanford University,Introductory,Data Analysis & Statistics,Inglés,Inglés,3–5 hours per week,9 Weeks,50
+152,Introduction to Social Psychology,79365,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,7 Weeks,99
+153,Artificial Intelligence (AI),265104,Instructor-led on a course schedule,Columbia University,Advanced,Computer Science,Inglés,Inglés,8–10 hours per week,12 Weeks,249
+154,American Government: Constitutional Foundations,35504,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+155,Introducción a la inversión bursátil,64261,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Economics & Finance,Español,Español,3–4 hours per week,2 Weeks,50
+156,Japanese Books: From Manuscript to Print,17581,Self-paced on your time,Harvard University,Introductory,Art & Culture,Inglés,Inglés,1–2 hours per week,9 Weeks,100
+157,Foundations of Modern Finance  I,24108,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Economics & Finance,Inglés,Inglés,10–14 hours per week,12 Weeks,450
+158,Operations Management,126093,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,"Inglés, हिन्दी",2–4 hours per week,7 Weeks,150
+159,Marketing Management,80010,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,"Inglés, हिन्दी",2–4 hours per week,9 Weeks,150
+160,Marketing enfocado en la estrategia de servicios,24618,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Business & Management,Español,"Inglés, Español",5–7 hours per week,6 Weeks,119
+161,Introduction to Marketing,169126,Self-paced on your time,University of British Columbia,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,6 Weeks,150
+162,Programming Basics,215059,Self-paced on your time,IITBombay,Introductory,Computer Science,Inglés,Inglés,6–8 hours per week,9 Weeks,149
+163,Probability and Statistics in Data Science using Python,106286,Self-paced on your time,"The University of California, San Diego",Advanced,Data Analysis & Statistics,Inglés,Inglés,10–12 hours per week,10 Weeks,350
+164,HTML5 Coding Essentials and Best Practices,241287,Self-paced on your time,The World Wide Web Consortium (W3C),Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,6 Weeks,199
+165,First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,37426,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,3 Weeks,49
+166,Cell Biology: Mitochondria,64142,Self-paced on your time,Harvard University,Introductory,Biology & Life Sciences,Inglés,Inglés,2–4 hours per week,4 Weeks,99
+167,"Algorithms: Design and Analysis, Part 1",20163,Self-paced on your time,Stanford University,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,6 Weeks,149
+168,Introducción al Office 365,16470,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,2–3 hours per week,7 Weeks,75
+169,Creative Thinking: Techniques and Tools for Success,54787,Self-paced on your time,Imperial College London,Introductory,Humanities,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+170,Upper-Intermediate English: Business and Technology,47451,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,50
+171,Shakespeare's Hamlet: The Ghost,38331,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–7 hours per week,4 Weeks,49
+172,FlashDiet: Aprende a comer sano,48105,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Food & Nutrition,Español,Español,2–3 hours per week,5 Weeks,50
+173,CS50's Understanding Technology,50030,Self-paced on your time,Harvard University,Introductory,Computer Science,Inglés,Inglés,2–6 hours per week,6 Weeks,90
+174,Introduction to Aerospace Structures and Materials,37126,Self-paced on your time,Delft University of Technology,Introductory,Engineering,Inglés,Inglés,4–6 hours per week,8 Weeks,50
+175,Visualizing Data with Python,42101,Self-paced on your time,IBM,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,39
+176,Success: Practical Thinking Skills,24414,Self-paced on your time,The Hong Kong Polytechnic University,Introductory,Philosophy & Ethics,Inglés,Inglés,4–6 hours per week,4 Weeks,50
+177,English for Doing Business in Asia – Speaking,68422,Self-paced on your time,The Hong Kong University of Science and Technology,Introductory,Humanities,Inglés,Inglés,3–4 hours per week,7 Weeks,60
+178,Nutrition and Health: Macronutrients and Overnutrition,208582,Self-paced on your time,Wageningen University & Research,Introductory,Biology & Life Sciences,Inglés,Inglés,6–8 hours per week,9 Weeks,99
+179,"Contemporary China: The People's Republic, Taiwan, and Hong Kong",66771,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+180,Introduction to Clinical Psychology,57234,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,7 Weeks,99
+181,Modern Masterpieces of World Literature,48049,Self-paced on your time,Harvard University,Introductory,Literature,Inglés,Inglés,3–6 hours per week,8 Weeks,99
+182,"Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media",24259,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+183,Applied Scrum for Agile Project Management,55293,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Advanced,Engineering,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+184,Corporate Finance,62798,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,"Inglés, हिन्दी",3–5 hours per week,5 Weeks,150
+185,Judaism Through Its Scriptures,50540,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+186,Excel avanzado: importación y análisis de datos,47184,Self-paced on your time,Universitat Politècnica de Valencia,Advanced,Data Analysis & Statistics,Español,Español,3–4 hours per week,8 Weeks,75
+187,CSS Basics,95163,Self-paced on your time,The World Wide Web Consortium (W3C),Introductory,Computer Science,Inglés,Inglés,5–7 hours per week,5 Weeks,199
+188,Unlocking Information Security: Part I,19905,Self-paced on your time,IsraelX-Tel Aviv University,Intermediate,Computer Science,Inglés,"Árabe, Inglés, עברית",4–6 hours per week,6 Weeks,149
+189,Becoming an Effective Leader,55937,Self-paced on your time,The University of Queensland,Intermediate,Communication,Inglés,Inglés,8–10 hours per week,10 Weeks,99
+190,Digital Branding and Engagement,122977,Self-paced on your time,Curtin University,Intermediate,Communication,Inglés,Inglés,3–4 hours per week,4 Weeks,99
+191,Introduction to Cybersecurity,73021,Self-paced on your time,University of Washington,Introductory,Computer Science,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+192,General Academic English|生活英语进阶,17526,Self-paced on your time,Tsinghua University,Introductory,Language,Inglés,Inglés,3–4 hours per week,8 Weeks,49
+193,Gestión de personas: Recursos Humanos,19687,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Business & Management,Español,"Inglés, Español",5–7 hours per week,5 Weeks,119
+194,From Poverty to Prosperity: Understanding Economic Development,91062,Self-paced on your time,University of Oxford,Intermediate,Social Sciences,Inglés,Inglés,2–3 hours per week,6 Weeks,149
+195,Medical Terminology,31354,Self-paced on your time,Doane University,Introductory,Biology & Life Sciences,Inglés,Inglés,5–10 hours per week,8 Weeks,79
+196,Ancient Masterpieces of World Literature,48899,Self-paced on your time,Harvard University,Introductory,Literature,Inglés,Inglés,3–6 hours per week,6 Weeks,99
+197,Shakespeare's The Merchant of Venice: Shylock,23283,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–7 hours per week,4 Weeks,49
+198,Gestión del estrés y Mindfulness,15965,Self-paced on your time,Universidades Anáhuac,Introductory,Health & Safety,Español,Español,4–5 hours per week,4 Weeks,49
+199,Behavioural Economics in Action,66764,Self-paced on your time,University of Toronto,Introductory,Business & Management,Inglés,Inglés,4–5 hours per week,6 Weeks,139
+200,Finance for Everyone: Smart Tools for Decision-Making,45029,Self-paced on your time,The University of Michigan,Introductory,Business & Management,Inglés,Inglés,5–6 hours per week,6 Weeks,49
+201,Creating Innovative Business Models,12227,Self-paced on your time,"University System of Maryland-The University of Maryland, College Park",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,149
+202,u.lab: Leading From the Emerging Future,79424,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,"Inglés, Español, Francés, עברית, Indonesian, Italiano, Chino, Portugués, Türkçe",4–6 hours per week,14 Weeks,99
+203,Electric Cars: Introduction,56171,Self-paced on your time,Delft University of Technology,Intermediate,Engineering,Inglés,Inglés,4–5 hours per week,4 Weeks,50
+204,Inteligencia Artificial para todos: Domina los fundamentos,11764,Self-paced on your time,IBM,Introductory,Computer Science,Español,Español,1–2 hours per week,4 Weeks,49
+205,Marketing Analytics,55228,Instructor-led on a course schedule,Columbia University,Advanced,Business & Management,Inglés,Inglés,8–10 hours per week,12 Weeks,249
+206,Introducción a la Regulación Emocional basada en Mindfulness,20634,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Health & Safety,Español,Español,5–6 hours per week,4 Weeks,49
+207,Design Thinking Fundamentals,56446,Self-paced on your time,Rochester Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,8–12 hours per week,6 Weeks,299
+208,Basic Spanish 3: Getting there,17569,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Language,Inglés,"Inglés, Español",3–4 hours per week,4 Weeks,50
+209,Mi propia huerta orgánica,11346,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Biology & Life Sciences,Español,Español,1–2 hours per week,4 Weeks,29
+210,Sustainability in Architecture: An Interdisciplinary Introduction,31352,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Architecture,Inglés,Inglés,3–4 hours per week,4 Weeks,50
+211,Gestión de riesgos en proyectos de desarrollo,47676,Self-paced on your time,Inter-American Development Bank,Intermediate,Business & Management,Español,Español,2–3 hours per week,10 Weeks,25
+212,Python Data Structures,36369,Self-paced on your time,The University of Michigan,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+213,The Science and Business of Biotechnology,17039,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,10–12 hours per week,16 Weeks,49
+214,Finance Essentials,63666,Self-paced on your time,Imperial College Business School-Imperial College London,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,6 Weeks,79
+215,Introduction to the Internet of Things (IoT),89421,Self-paced on your time,Curtin University,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,6 Weeks,149
+216,'Talk to me': Improving mental health and suicide prevention in young adults,11481,Self-paced on your time,Curtin University,Introductory,Health & Safety,Inglés,Inglés,2–3 hours per week,6 Weeks,139
+217,Disaster Medicine Training,10937,Self-paced on your time,Stanford University,Introductory,Medicine,Inglés,Inglés,1–2 hours per week,8 Weeks,50
+218,Nutrition and Health: Human Microbiome,44079,Self-paced on your time,Wageningen University & Research,Introductory,Health & Safety,Inglés,Inglés,3–5 hours per week,6 Weeks,49
+219,Customer Relationship Management,53085,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,"Inglés, हिन्दी",3–5 hours per week,6 Weeks,50
+220,Islam Through Its Scriptures,65430,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,5–10 hours per week,4 Weeks,99
+221,Mechatronics Revolution: Fundamentals and Core Concepts,11619,Self-paced on your time,The Georgia Institute of Technology,Introductory,Engineering,Inglés,Inglés,6–8 hours per week,16 Weeks,149
+222,Accounting for Decision-Making,57710,Self-paced on your time,Indian Institute of Management Bangalore,Intermediate,Business & Management,Inglés,"Inglés, हिन्दी",3–5 hours per week,7 Weeks,150
+223,C Programming: Language Foundations,46400,Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+224,Big Data sin misterios,65564,Self-paced on your time,Inter-American Development Bank,Intermediate,Data Analysis & Statistics,Español,Español,4–5 hours per week,10 Weeks,25
+225,Becoming a Successful Leader (Inclusive Leadership Training),215705,Self-paced on your time,Catalyst,Introductory,Communication,Inglés,Inglés,1–2 hours per week,4 Weeks,49
+226,"English for Journalists, Part 1",50847,Self-paced on your time,"University of California, Berkeley",Intermediate,Communication,Inglés,Inglés,3–4 hours per week,5 Weeks,139
+227,Introduction to Networking,16134,Self-paced on your time,New York University,Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,7 Weeks,150
+228,Accounting Essentials,58463,Self-paced on your time,Imperial College Business School-Imperial College London,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,6 Weeks,79
+229,Introduction to Java Programming: Starting to code in Java,325554,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Computer Science,Inglés,"Inglés, Español, Portugués, Chino",7–10 hours per week,5 Weeks,149
+230,European Paintings: From Leonardo to Rembrandt to Goya,60734,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Humanities,Inglés,Inglés,2–3 hours per week,7 Weeks,99
+231,Java Programming Fundamentals,12042,Self-paced on your time,Universidad Galileo,Intermediate,Engineering,Inglés,Inglés,8–10 hours per week,5 Weeks,49
+232,"Hollywood: History, Industry, Art",50033,Self-paced on your time,University of Pennsylvania,Introductory,Communication,Inglés,Inglés,3–4 hours per week,4 Weeks,169
+233,Data Science Tools,15627,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,3–7 hours per week,7 Weeks,39
+234,Statistical Thinking for Data Science and Analytics,198861,Self-paced on your time,Columbia University,Introductory,Computer Science,Inglés,Inglés,7–10 hours per week,5 Weeks,99
+235,Philosophy and Critical Thinking,97175,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,1–4 hours per week,6 Weeks,99
+236,International Law,91868,Self-paced on your time,Université catholique de Louvain,Advanced,Law,Inglés,Inglés,6–8 hours per week,12 Weeks,150
+237,Tourism and Travel Management,38503,Self-paced on your time,The University of Queensland,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,7 Weeks,5
+238,Project Management Life Cycle,120019,Self-paced on your time,Rochester Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,8–12 hours per week,10 Weeks,150
+239,Solar Energy,125069,Self-paced on your time,Delft University of Technology,Introductory,Engineering,Inglés,Inglés,6–8 hours per week,8 Weeks,50
+240,Public Speaking,10129,Self-paced on your time,Rochester Institute of Technology,Introductory,Communication,Inglés,Inglés,4–6 hours per week,3 Weeks,199
+241,Japanese Pronunciation for Communication,62757,Self-paced on your time,Waseda University,Introductory,Communication,Chino,"Inglés, Chino, 한국어, Chino",3–5 hours per week,5 Weeks,99
+242,Mindfulness and Resilience to Stress at Work,33414,Self-paced on your time,"University of California, Berkeley",Introductory,Business & Management,Inglés,Inglés,1–2 hours per week,4 Weeks,199
+243,Framing Your Communication to Inspire and Convince,49351,Self-paced on your time,Delft University of Technology,Intermediate,Business & Management,Inglés,Inglés,4–5 hours per week,5 Weeks,125
+244,Business Foundations,55154,Self-paced on your time,University of British Columbia,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,6 Weeks,150
+245,The Chemistry of Life,78704,Self-paced on your time,Kyoto University,Introductory,Biology & Life Sciences,Inglés,Inglés,2–3 hours per week,13 Weeks,49
+246,Nutrition and Health: Micronutrients and Malnutrition,78266,Self-paced on your time,Wageningen University & Research,Intermediate,Biology & Life Sciences,Inglés,Inglés,6–8 hours per week,7 Weeks,99
+247,Digital Design,12339,Self-paced on your time,The Hong Kong University of Science and Technology,Introductory,Design,Inglés,Inglés,5–6 hours per week,5 Weeks,50
+248,Machine Learning for Data Science and Analytics,140419,Self-paced on your time,Columbia University,Introductory,Computer Science,Inglés,Inglés,7–10 hours per week,5 Weeks,99
+249,The Science of Everyday Thinking,318399,Self-paced on your time,The University of Queensland,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,12 Weeks,99
+250,Gestion de projets de développement,41663,Self-paced on your time,Inter-American Development Bank,Intermediate,Business & Management,Francés,Francés,3–4 hours per week,10 Weeks,25
+251,Product Management Fundamentals,11913,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+252,International Human Rights Law,74424,Self-paced on your time,Université catholique de Louvain,Advanced,Law,Inglés,Inglés,6–8 hours per week,12 Weeks,150
+253,The Best Start in Life: Early Childhood Development for Sustainable Development,23139,Self-paced on your time,SDG Academy,Intermediate,Education & Teacher Training,Inglés,"Árabe, Inglés, Español, हिन्दी, Portugués",2–4 hours per week,8 Weeks,49
+254,Data Science and Machine Learning Capstone Project,21809,Self-paced on your time,IBM,Intermediate,Data Analysis & Statistics,Inglés,Inglés,3–4 hours per week,6 Weeks,99
+255,"Data Science for Construction, Architecture and Engineering",11113,Self-paced on your time,The National University of Singapore,Introductory,Data Analysis & Statistics,Inglés,Inglés,4–6 hours per week,7 Weeks,199
+256,"Nutrition, Heart Disease and Diabetes",24986,Self-paced on your time,Wageningen University & Research,Intermediate,Food & Nutrition,Inglés,Inglés,6–8 hours per week,5 Weeks,99
+257,Project Management for Development,62099,Self-paced on your time,Inter-American Development Bank,Intermediate,Business & Management,Inglés,Inglés,3–4 hours per week,10 Weeks,49
+258,Introduction to Cloud Infrastructure Technologies,86923,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,3–4 hours per week,14 Weeks,169
+259,"Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry",13566,Self-paced on your time,Wageningen University & Research,Introductory,Art & Culture,Inglés,Inglés,4–6 hours per week,5 Weeks,65
+260,Machine Learning,150855,Instructor-led on a course schedule,Columbia University,Advanced,Computer Science,Inglés,Inglés,8–10 hours per week,12 Weeks,249
+261,Introducción a la gestión de proyectos,98517,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Business & Management,Español,Español,4–5 hours per week,5 Weeks,50
+262,Free Cash Flow Analysis,36085,Self-paced on your time,Columbia University,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,5 Weeks,225
+263,Lean Production,55926,Self-paced on your time,Technische Universität München,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,6 Weeks,99
+264,Introduction to Algebra,131197,Self-paced on your time,SchoolYourself,Introductory,Math,Inglés,Inglés,4–6 hours per week,4 Weeks,139
+265,"LaTeX for Students, Engineers, and Scientists",11823,Self-paced on your time,IITBombay,Introductory,Engineering,Inglés,Inglés,3–4 hours per week,7 Weeks,139
+266,Leading With Effective Communication (Inclusive Leadership Training),107770,Self-paced on your time,Catalyst,Introductory,Communication,Inglés,Inglés,1–2 hours per week,4 Weeks,50
+267,Anatomy: Musculoskeletal and Integumentary Systems,51969,Self-paced on your time,The University of Michigan,Introductory,Biology & Life Sciences,Inglés,Inglés,2–3 hours per week,4 Weeks,49
+268,"Inglés empresarial: ventas, gestión y liderazgo",10897,Instructor-led on a course schedule,Universidades Anáhuac,Introductory,Business & Management,Inglés,"Inglés, Español",5–8 hours per week,4 Weeks,49
+269,Business Strategy from Wharton: Competitive Advantage,26675,Self-paced on your time,The Wharton School of the University of Pennsylvania,Intermediate,Business & Management,Inglés,Inglés,3–4 hours per week,6 Weeks,199
+270,Inteligencia emocional para el liderazgo efectivo y colaboración,14726,Self-paced on your time,Universidades Anáhuac,Introductory,Social Sciences,Español,Español,4–5 hours per week,4 Weeks,49
+271,Introducción al desarrollo de aplicaciones web,27757,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Computer Science,Español,Español,4–5 hours per week,5 Weeks,49
+272,"Six Sigma: Analyze, Improve, Control",56016,Self-paced on your time,Technische Universität München,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,8 Weeks,99
+273,Introducción a la inteligencia emocional,18830,Self-paced on your time,Universidades Anáhuac,Introductory,Social Sciences,Español,Español,3–5 hours per week,4 Weeks,49
+274,AP® Microeconomics,53664,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Economics & Finance,Inglés,Inglés,3–4 hours per week,12 Weeks,49
+275,Engineering Calculus and Differential Equations,21535,Self-paced on your time,University of Hong Kong,Introductory,Math,Inglés,Inglés,3–6 hours per week,6 Weeks,50
+276,Linear Algebra - Foundations to Frontiers,88570,Self-paced on your time,The University of Texas at Austin,Intermediate,Computer Science,Inglés,Inglés,6–10 hours per week,15 Weeks,49
+277,Habilidades de negociación y comunicación efectiva,19614,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Español,Español,5–8 hours per week,4 Weeks,149
+278,Effective Communication for Today's Leader,8862,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Business & Management,Inglés,Inglés,5–8 hours per week,4 Weeks,149
+279,Electric Cars: Technology,40972,Self-paced on your time,Delft University of Technology,Intermediate,Engineering,Inglés,Inglés,4–5 hours per week,4 Weeks,50
+280,Site Planning Online,12948,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Design,Inglés,Inglés,4–6 hours per week,10 Weeks,99
+281,Macroeconometric Forecasting,69358,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,8–10 hours per week,9 Weeks,25
+282,Administración pública y fiscal: cómo se gestiona un gobierno,49189,Self-paced on your time,Inter-American Development Bank,Introductory,Economics & Finance,Español,"Español, Español",3–4 hours per week,10 Weeks,25
+283,Fundamentals of Red Hat Enterprise Linux,53788,Self-paced on your time,Red Hat,Introductory,Computer Science,Inglés,Inglés,1–3 hours per week,9 Weeks,99
+284,Algorithms,61722,Self-paced on your time,IITBombay,Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,6 Weeks,149
+285,Calculus Applied!,54976,Self-paced on your time,Harvard University,Intermediate,Math,Inglés,Inglés,3–6 hours per week,10 Weeks,99
+286,Precalculus,55576,Self-paced on your time,Arizona State University,Intermediate,Math,Inglés,Inglés,9–10 hours per week,15 Weeks,49
+287,Fundamentos de anatomía y técnica quirúrgica básica,12133,Instructor-led on a course schedule,Universidad del Rosario,Introductory,Medicine,Español,Español,4–6 hours per week,4 Weeks,49
+288,Business Communications,60713,Self-paced on your time,University of British Columbia,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,6 Weeks,150
+289,Italian Language and Culture: Intermediate (2019-2020),35058,Self-paced on your time,Wellesley College,Intermediate,Language,Italiano,Italiano,3–5 hours per week,12 Weeks,49
+290,International Women's Health and Human Rights,9796,Self-paced on your time,Stanford University,Introductory,Social Sciences,Inglés,Inglés,1–5 hours per week,10 Weeks,50
+291,Blockchain: Understanding Its Uses and Implications,66769,Self-paced on your time,The Linux Foundation,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,14 Weeks,199
+292,"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",22366,Self-paced on your time,Imperial College London,Intermediate,Math,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+293,Blockchain Technology,55376,Self-paced on your time,"University of California, Berkeley",Intermediate,Computer Science,Inglés,Inglés,3–5 hours per week,6 Weeks,99
+294,Basics of Power BI,8314,Self-paced on your time,Rolls-Royce,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–5 hours per week,2 Weeks,49
+295,Preparing to Network in English,34337,Self-paced on your time,University of Washington,Introductory,Language,Inglés,Inglés,3–5 hours per week,6 Weeks,149
+296,Mandarin Chinese Essentials,36665,Self-paced on your time,MandarinX,Introductory,Language,Inglés,Inglés,4–10 hours per week,5 Weeks,99
+297,Human Rights: The Rights of Refugees,84270,Self-paced on your time,Amnesty International,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,3 Weeks,49
+298,What do Architects and Urban Planners do?,11046,Self-paced on your time,Wits University,Introductory,Architecture,Inglés,Inglés,2–3 hours per week,3 Weeks,49
+299,"U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy",22723,Self-paced on your time,Harvard University,Introductory,Social Sciences,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+300,Negotiation Skills and Effective Communication,8146,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Business & Management,Inglés,Inglés,5–8 hours per week,4 Weeks,149
+301,AP® English Literature & Composition – Part 1: Stories,15650,Self-paced on your time,"University of California, Berkeley",Introductory,Humanities,Inglés,Inglés,4–5 hours per week,7 Weeks,49
+302,"Viruses & How to Beat Them: Cells, Immunity, Vaccines",28710,Self-paced on your time,IsraelX-Tel Aviv University,Introductory,Medicine,Inglés,Inglés,2–3 hours per week,7 Weeks,149
+303,Alianzas: un vehículo para lograr el desarrollo sostenible,17554,Self-paced on your time,Inter-American Development Bank,Introductory,Social Sciences,Español,Inglés,3–4 hours per week,10 Weeks,25
+304,Designing and Creating Skirts,13954,Self-paced on your time,The Hong Kong Polytechnic University,Introductory,Design,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+305,Cómo Aprender Online,7958,Self-paced on your time,edX,Introductory,Education & Teacher Training,Español,"Inglés, Español",2–3 hours per week,2 Weeks,49
+306,Computing in Python II: Control Structures,31511,Self-paced on your time,The Georgia Institute of Technology,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,5 Weeks,99
+307,Facebook Ads: Cómo utilizar el poder de la publicidad en Facebook,29614,Self-paced on your time,Universidad Galileo,Introductory,Communication,Español,Español,3–4 hours per week,5 Weeks,49
+308,Machine Learning Fundamentals,82008,Self-paced on your time,"The University of California, San Diego",Advanced,Data Analysis & Statistics,Inglés,Inglés,8–10 hours per week,10 Weeks,350
+309,Pre-University Calculus,103224,Self-paced on your time,Delft University of Technology,Introductory,Math,Inglés,Inglés,6–8 hours per week,8 Weeks,50
+310,Tsinghua Chinese: Start Talking with 1.3 Billion People,58834,Self-paced on your time,Tsinghua University,Introductory,Language,Inglés,Inglés,2–3 hours per week,6 Weeks,49
+311,Deep Learning with Python and PyTorch,36195,Self-paced on your time,IBM,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,6 Weeks,99
+312,Diseña presentaciones eficaces con Powerpoint,36663,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,4–10 hours per week,3 Weeks,50
+313,World of Wine: From Grape to Glass,81839,Self-paced on your time,University of Adelaide,Introductory,Science,Inglés,Inglés,2–3 hours per week,6 Weeks,199
+314,Sustainable Cities,16619,Self-paced on your time,SDG Academy,Intermediate,Environmental Studies,Inglés,"Inglés, हिन्दी",4–6 hours per week,9 Weeks,49
+315,Introduction to Developmental Psychology,38060,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,8 Weeks,99
+316,Creativity & Entrepreneurship,69413,Self-paced on your time,Berklee College of Music,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,4 Weeks,49
+317,College Algebra and Problem Solving,103010,Self-paced on your time,Arizona State University,Introductory,Math,Inglés,Inglés,8–9 hours per week,15 Weeks,49
+318,Academic writing for clarity and meaning,16220,Self-paced on your time,Wits University,Introductory,Education & Teacher Training,Inglés,Inglés,2–3 hours per week,2 Weeks,49
+319,Financial Development and Financial Inclusion,13853,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,8–10 hours per week,7 Weeks,25
+320,Global Public Health,17273,Self-paced on your time,SDG Academy,Intermediate,Health & Safety,Inglés,Inglés,4–6 hours per week,10 Weeks,49
+321,Embedded Systems - Shape The World: Microcontroller Input/Output,69182,Self-paced on your time,The University of Texas at Austin,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,8 Weeks,49
+322,Introduction to Animal Behaviour,42135,Self-paced on your time,Wageningen University & Research,Introductory,Biology & Life Sciences,Inglés,Inglés,4–6 hours per week,6 Weeks,49
+323,Circular Economy: An Introduction,50240,Self-paced on your time,Delft University of Technology,Introductory,Business & Management,Inglés,Inglés,3–6 hours per week,7 Weeks,50
+324,Public Financial Management,23288,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,4–6 hours per week,8 Weeks,25
+325,Anatomy: Human Neuroanatomy,49319,Self-paced on your time,The University of Michigan,Introductory,Biology & Life Sciences,Inglés,Inglés,3–4 hours per week,8 Weeks,49
+326,Android: Introducción a la Programación,85786,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,4–5 hours per week,10 Weeks,50
+327,The Ancient Greek Hero,51744,Instructor-led on a course schedule,Harvard University,Introductory,Humanities,Inglés,Inglés,8–12 hours per week,18 Weeks,99
+328,Agile Leadership Principles and Practices,31838,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Advanced,Engineering,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+329,How to Code: Simple Data,98113,Self-paced on your time,University of British Columbia,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,7 Weeks,125
+330,Cybersecurity and Privacy in the IoT,21440,Self-paced on your time,Curtin University,Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,199
+331,Strategic Management,71085,Self-paced on your time,Indian Institute of Management Bangalore,Introductory,Business & Management,Inglés,"Inglés, हिन्दी",3–5 hours per week,5 Weeks,150
+332,Introducción a la ciencia de datos y sus aplicaciones,7303,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Español,Español,3–6 hours per week,6 Weeks,39
+333,"Biochemistry: Biomolecules, Methods, and Mechanisms",18692,Instructor-led on a course schedule,Massachusetts Institute of Technology,Intermediate,Biology & Life Sciences,Inglés,Inglés,3–6 hours per week,12 Weeks,150
+334,Astronomía Virtual,10500,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Science,Español,"Inglés, Español",5–7 hours per week,7 Weeks,29
+335,Nutrition and Cancer,27144,Self-paced on your time,Wageningen University & Research,Intermediate,Food & Nutrition,Inglés,Inglés,6–8 hours per week,5 Weeks,99
+336,Build your very first iOS app,31570,Instructor-led on a course schedule,Curtin University,Introductory,Computer Science,Inglés,Inglés,8–10 hours per week,8 Weeks,149
+337,Object-Oriented Programming,93633,Self-paced on your time,IITBombay,Introductory,Computer Science,Inglés,Inglés,6–8 hours per week,4 Weeks,149
+338,Introduction to Jenkins,7233,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,10 Weeks,199
+339,Conducting an Informational Interview,15594,Self-paced on your time,University of Washington,Introductory,Language,Inglés,Inglés,3–5 hours per week,8 Weeks,99
+340,Liderazgo y comportamiento organizacional,21419,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Español,Español,5–8 hours per week,4 Weeks,149
+341,Creative Coding,18660,Instructor-led on a course schedule,New York University,Introductory,Design,Inglés,Inglés,8–10 hours per week,14 Weeks,249
+342,Análisis estadístico con Excel,22717,Self-paced on your time,Universidad Galileo,Introductory,Data Analysis & Statistics,Español,Español,3–5 hours per week,4 Weeks,49
+343,Introducción a la Ingeniería del Software,17931,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Computer Science,Español,Español,4–5 hours per week,5 Weeks,49
+344,Computer Graphics,98553,Self-paced on your time,"The University of California, San Diego",Intermediate,Computer Science,Inglés,"Inglés, Chino",6–12 hours per week,6 Weeks,99
+345,Data Science: Computational Thinking with Python,78232,Self-paced on your time,"University of California, Berkeley",Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,199
+346,Comunicación efectiva para el líder actual,18470,Self-paced on your time,Tecnológico de Monterrey,Introductory,Communication,Español,Español,5–8 hours per week,4 Weeks,149
+347,Debate y argumentación,10954,Self-paced on your time,Universidad del Rosario,Introductory,Humanities,Español,Español,4–6 hours per week,4 Weeks,49
+348,Deep Learning with Tensorflow,37564,Self-paced on your time,IBM,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,99
+349,Machine Learning (aprendizaje automático) con Python: una introducción práctica,39155,Self-paced on your time,IBM,Introductory,Computer Science,Español,Español,4–6 hours per week,5 Weeks,49
+350,Essential Human Biology: Cells and Tissues,67961,Self-paced on your time,University of Adelaide,Introductory,Medicine,Inglés,Inglés,2–3 hours per week,5 Weeks,169
+351,"Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告",35720,Self-paced on your time,Tsinghua University,Intermediate,Communication,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+352,Computing in Python III: Data Structures,27239,Self-paced on your time,The Georgia Institute of Technology,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,5 Weeks,99
+353,Introduction to Internet of Things (IoT),6703,Self-paced on your time,Rolls-Royce,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–5 hours per week,2 Weeks,49
+354,Nutrition and Health: Food Risks,51493,Self-paced on your time,Wageningen University & Research,Introductory,Biology & Life Sciences,Inglés,Inglés,6–8 hours per week,8 Weeks,49
+355,Mechanics: Kinematics and Dynamics,35529,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Physics,Inglés,Inglés,10–12 hours per week,12 Weeks,49
+356,Storytelling for Social Change,30313,Self-paced on your time,The University of Michigan,Introductory,Communication,Inglés,Inglés,1–3 hours per week,5 Weeks,49
+357,Introduction to Data Analytics for Managers,39113,Self-paced on your time,The University of Michigan,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+358,Qualitative Research Methods: Conversational Interviewing,21972,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Humanities,Inglés,Inglés,2–3 hours per week,3 Weeks,49
+359,International Project Management,45145,Self-paced on your time,Rochester Institute of Technology,Advanced,Business & Management,Inglés,Inglés,8–12 hours per week,9 Weeks,150
+360,Software Development Fundamentals,51402,Self-paced on your time,University of Pennsylvania,Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,4 Weeks,149
+361,"First Nights - Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots",17484,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,3 Weeks,49
+362,Critical Thinking & Problem Solving,6558,Self-paced on your time,Rochester Institute of Technology,Introductory,Communication,Inglés,Inglés,4–6 hours per week,3 Weeks,199
+363,Data Analysis Essentials,42262,Self-paced on your time,Imperial College Business School-Imperial College London,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,79
+364,Master Control in Supply Chain Management and Logistics,31326,Self-paced on your time,Chalmers University of Technology,Introductory,Business & Management,Inglés,Inglés,4–5 hours per week,7 Weeks,49
+365,Work and Employment for a Sustainable Future,6528,Self-paced on your time,SDG Academy,Intermediate,Economics & Finance,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+366,Foundations of Data Structures,54075,Self-paced on your time,IITBombay,Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,6 Weeks,149
+367,"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis",31024,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,8–10 hours per week,6 Weeks,25
+368,IoT System Design: Software and Hardware Integration,13608,Self-paced on your time,Waseda University,Intermediate,Computer Science,Inglés,Inglés,4–6 hours per week,4 Weeks,99
+369,English for Doing Business in Asia – Writing,44252,Self-paced on your time,The Hong Kong University of Science and Technology,Introductory,Humanities,Inglés,Inglés,3–4 hours per week,7 Weeks,60
+370,Working in Teams: A Practical Guide,43981,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,6–8 hours per week,4 Weeks,49
+371,Introducción a los encofrados y las cimbras en obra civil y edificación,16029,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Engineering,Español,Español,2–3 hours per week,4 Weeks,50
+372,AI Chatbots without Programming,35440,Self-paced on your time,IBM,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,2 Weeks,99
+373,Introducción a la Ciencia de Datos y el Big Data,16268,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Data Analysis & Statistics,Español,Español,3–5 hours per week,4 Weeks,49
+374,Just Money: Banking as if Society Mattered,25553,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,16 Weeks,49
+375,Introducción a R,6431,Self-paced on your time,Universidades Anáhuac,Introductory,Data Analysis & Statistics,Español,Español,5–8 hours per week,4 Weeks,49
+376,Computing in Python IV: Objects & Algorithms,28112,Self-paced on your time,The Georgia Institute of Technology,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,5 Weeks,99
+377,Adobe Illustrator: aprende a crear presentaciones de impacto,18613,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Design,Español,Español,9–10 hours per week,5 Weeks,15
+378,Teaching Critical Thinking through Art with the National Gallery of Art,18595,Self-paced on your time,The Smithsonian Institution,Introductory,Education & Teacher Training,Inglés,"Inglés, Español, Francés, Chino",3–4 hours per week,16 Weeks,25
+379,Word intermedio: herramientas de formato y productividad,10265,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Computer Science,Español,Español,4–5 hours per week,6 Weeks,50
+380,Introducción a las finanzas: Principios de valoración,17344,Self-paced on your time,Universidad del Rosario,Intermediate,Economics & Finance,Español,Español,6–10 hours per week,4 Weeks,49
+381,Aprende a diseñar jardines verticales y cuadros vivos,6341,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Biology & Life Sciences,Español,Español,1–2 hours per week,4 Weeks,29
+382,"Anatomy: Cardiovascular, Urinary, and Respiratory Systems",36917,Self-paced on your time,The University of Michigan,Introductory,Biology & Life Sciences,Inglés,Inglés,2–3 hours per week,4 Weeks,49
+383,Software Engineering: Introduction,35524,Self-paced on your time,University of British Columbia,Advanced,Computer Science,Inglés,Inglés,8–10 hours per week,6 Weeks,125
+384,Structure of Materials,13042,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Engineering,Inglés,Inglés,6–8 hours per week,16 Weeks,150
+385,Fundamentos de fotografía documental,13036,Self-paced on your time,Universidad del Rosario,Introductory,Art & Culture,Español,Español,4–6 hours per week,6 Weeks,49
+386,AP® Italian Language and Culture (2020-2021),39398,Self-paced on your time,Wellesley College,Advanced,Humanities,Italiano,Italiano,3–8 hours per week,12 Weeks,49
+387,Computer Hardware and Operating Systems,9715,Self-paced on your time,New York University,Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,6 Weeks,150
+388,Marketing Management,43415,Instructor-led on a course schedule,"The University of Maryland, College Park-University System of Maryland",Advanced,Business & Management,Inglés,Inglés,8–10 hours per week,7 Weeks,214
+389,You Can Innovate: User  Innovation & Entrepreneurship,18974,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,10 Weeks,49
+390,Analytics in Python,82210,Instructor-led on a course schedule,Columbia University,Intermediate,Business & Management,Inglés,,8–10 hours per week,12 Weeks,249
+391,Bases Matemáticas: Álgebra,35811,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Math,Español,Español,3–4 hours per week,4 Weeks,50
+392,HTML5 Apps and Games,86850,Self-paced on your time,The World Wide Web Consortium (W3C),Advanced,Computer Science,Inglés,Inglés,6–8 hours per week,4 Weeks,199
+393,MATLAB and Octave for Beginners,68706,Self-paced on your time,École polytechnique fédérale de Lausanne,Introductory,Computer Science,Inglés,Inglés,5–6 hours per week,4 Weeks,139
+394,AP Physics 1,43401,Self-paced on your time,Rice University,Introductory,Physics,Inglés,Inglés,3–4 hours per week,18 Weeks,49
+395,The Divine Comedy: Dante's Journey to Freedom,12005,Self-paced on your time,Georgetown University,Introductory,Humanities,Inglés,Inglés,9–10 hours per week,8 Weeks,49
+396,Linux Basics: The Command Line Interface,32726,Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,7 Weeks,49
+397,Entrepreneurial Operations: Launching a Startup,23808,Self-paced on your time,Babson College,Intermediate,Business & Management,Inglés,Inglés,4–6 hours per week,4 Weeks,149
+398,Maths Essentials,44642,Self-paced on your time,Imperial College Business School-Imperial College London,Introductory,Business & Management,Inglés,Inglés,2–5 hours per week,6 Weeks,79
+399,"Marketing Analytics: Products, Distribution and Sales",50588,Self-paced on your time,"University of California, Berkeley",Intermediate,Computer Science,Inglés,Inglés,5–7 hours per week,4 Weeks,249
+400,Marketing Innovative Products and Services,6293,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,149
+401,Just Reading and Writing in English | 生活英语读写,33303,Self-paced on your time,Tsinghua University,Introductory,Art & Culture,Inglés,Inglés,2–4 hours per week,15 Weeks,149
+402,Introduction to Java Programming – Part 1,270376,Self-paced on your time,The Hong Kong University of Science and Technology,Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+403,Comunicación y Redacción Digital,7165,Self-paced on your time,Universidades Anáhuac,Introductory,Communication,Español,Español,3–4 hours per week,4 Weeks,29
+404,Monetary Policy Analysis and Forecasting,6616,Self-paced on your time,The International Monetary Fund,Advanced,Economics & Finance,Inglés,Inglés,8–10 hours per week,6 Weeks,25
+405,Basic Analytical Chemistry,19010,Self-paced on your time,The University of Tokyo,Introductory,Chemistry,Inglés,Inglés,3–4 hours per week,6 Weeks,49
+406,Identifying Entrepreneurial Opportunities,11922,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,149
+407,"ChinaX Book Club: Five Authors, Five Books, Five Views of China",5855,Self-paced on your time,Harvard University,Introductory,Literature,Inglés,Inglés,1–2 hours per week,5 Weeks,139
+408,Astrophysics: Cosmology,83322,Self-paced on your time,Australian National University,Intermediate,Physics,Inglés,Inglés,2–4 hours per week,10 Weeks,50
+409,Japanese Culture and Language (I) |日语与日本文化（1）,18489,Self-paced on your time,Tsinghua University,Introductory,Art & Culture,Chino,"Chino, Chino",3–5 hours per week,10 Weeks,139
+410,COVID-19 Training for Healthcare Workers,5742,Self-paced on your time,Stanford University,Introductory,Medicine,Inglés,Inglés,1–10 hours per week,2 Weeks,10
+411,The Rise of Superheroes and Their Impact On Pop Culture,31368,Self-paced on your time,The Smithsonian Institution,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,6 Weeks,50
+412,Introduction to Aeronautical Engineering,99971,Self-paced on your time,Delft University of Technology,Introductory,Engineering,Inglés,Inglés,10–12 hours per week,7 Weeks,50
+413,Diseño de Jardines,5683,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Biology & Life Sciences,Español,Español,1–2 hours per week,4 Weeks,29
+414,"Introducción al griego clásico: lengua, nombres y mitología",18849,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Language,Español,Español,4–5 hours per week,5 Weeks,49
+415,Deep Learning Fundamentals with Keras,32140,Self-paced on your time,IBM,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,99
+416,Existential Well-being Counseling: A Person-centered Experiential Approach,48439,Self-paced on your time,KU Leuven University,Introductory,Humanities,Inglés,Inglés,6–8 hours per week,12 Weeks,49
+417,Solid Waste Management,7668,Self-paced on your time,World Bank Group,Introductory,Environmental Studies,Inglés,Inglés,2–3 hours per week,6 Weeks,5
+418,Retail Fundamentals,37558,Self-paced on your time,Dartmouth College,Intermediate,Business & Management,Inglés,Inglés,3–5 hours per week,4 Weeks,99
+419,Greatest Unsolved Mysteries of the Universe,93965,Self-paced on your time,Australian National University,Intermediate,Physics,Inglés,Inglés,2–4 hours per week,9 Weeks,50
+420,"Money Markets, Foreign Exchange and Time Value of Money",12230,Self-paced on your time,NYIF,Introductory,Economics & Finance,Inglés,Inglés,1–2 hours per week,4 Weeks,199
+421,Gestión de Contenidos Digitales y Marketing Turístico de Ciudad,14627,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Communication,Español,Español,9–10 hours per week,4 Weeks,49
+422,Designing the User Experience,6416,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+423,Introduction to Bioconductor,36370,Self-paced on your time,Harvard University,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,4 Weeks,149
+424,Connected Strategy,10355,Self-paced on your time,The Wharton School of the University of Pennsylvania,Intermediate,Business & Management,Inglés,Inglés,2–4 hours per week,6 Weeks,199
+425,Hybrid Vehicles,18294,Instructor-led on a course schedule,Chalmers University of Technology,Advanced,Engineering,Inglés,Inglés,10–20 hours per week,6 Weeks,249
+426,First Nights - Handel's Messiah and Baroque Oratorio,18029,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,3 Weeks,49
+427,Statistical Inference and Modeling for High-throughput Experiments,51590,Self-paced on your time,Harvard University,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,4 Weeks,149
+428,First Nights - Monteverdi’s L’Orfeo and the Birth of Opera,13300,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,3 Weeks,49
+429,18th-Century Opera: Handel & Mozart,18331,Self-paced on your time,Harvard University,Introductory,Music,Inglés,Inglés,3–4 hours per week,5 Weeks,99
+430,Introduction to video game development with Unity,7605,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Computer Science,Inglés,Inglés,3–4 hours per week,6 Weeks,50
+431,Best Practices for Project Management Success,46610,Self-paced on your time,Rochester Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,8–12 hours per week,11 Weeks,150
+432,Fundamentos de la Tecnología Blockchain,5473,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Economics & Finance,Español,Español,7–10 hours per week,5 Weeks,49
+433,Información financiera y su análisis,5473,Self-paced on your time,Tecnológico de Monterrey,Advanced,Economics & Finance,Español,Español,5–8 hours per week,4 Weeks,49
+434,Coaching Skills for Learner-Centred Conversations,8089,Self-paced on your time,Imperial College London,Introductory,Education & Teacher Training,Inglés,Inglés,1–2 hours per week,4 Weeks,49
+435,Intellectual Property Law and Policy: Part 1,43993,Self-paced on your time,University of Pennsylvania,Intermediate,Law,Inglés,Inglés,2–3 hours per week,6 Weeks,169
+436,Robotics,68199,Instructor-led on a course schedule,Columbia University,Advanced,Computer Science,Inglés,Inglés,8–10 hours per week,10 Weeks,249
+437,La gestion des ressources humaines,6824,Self-paced on your time,HEC Montréal,Introductory,Business & Management,Francés,Francés,1–2 hours per week,7 Weeks,99
+438,Writing for Social Justice,9927,Self-paced on your time,"University of California, Berkeley",Introductory,Humanities,Inglés,Inglés,4–5 hours per week,4 Weeks,50
+439,Steps in Japanese for Beginners1 Part2,8080,Self-paced on your time,Waseda University,Introductory,Language,Inglés,"Inglés, Chino",3–5 hours per week,5 Weeks,99
+440,Case Studies in Functional Genomics,26850,Self-paced on your time,Harvard University,Advanced,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,149
+441,Essential Career Skills for Investment Banking and Finance,11655,Self-paced on your time,NYIF,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,2 Weeks,49
+442,Data Structures and Software Design,30609,Self-paced on your time,University of Pennsylvania,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,4 Weeks,149
+443,Unconscious Bias: From Awareness to Action,26659,Self-paced on your time,Catalyst,Introductory,Communication,Inglés,Inglés,1–2 hours per week,3 Weeks,49
+444,Cybersecurity for Critical Urban Infrastructure,5306,Self-paced on your time,Massachusetts Institute of Technology,Advanced,Computer Science,Inglés,Inglés,3–5 hours per week,4 Weeks,100
+445,"Agile Process, Project, and Program Controls",16339,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Advanced,Engineering,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+446,Risk Management in Development Projects,13263,Self-paced on your time,Inter-American Development Bank,Intermediate,Business & Management,Inglés,Inglés,2–3 hours per week,10 Weeks,25
+447,"Pintura europea: Leonardo, Rembrandt, Goya",32635,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Humanities,Español,Español,2–3 hours per week,7 Weeks,29
+448,Risk & Return,21970,Self-paced on your time,Columbia University,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,4 Weeks,225
+449,Project Management of Engineering Projects: Preparing for Success,42834,Instructor-led on a course schedule,Delft University of Technology,Intermediate,Business & Management,Inglés,Inglés,4–6 hours per week,10 Weeks,99
+450,Supply Chain Dynamics,75464,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Business & Management,Inglés,Inglés,8–12 hours per week,13 Weeks,299
+451,AWS Developer: Building on AWS,54249,Self-paced on your time,Amazon Web Services,Advanced,Computer Science,Inglés,Inglés,3–4 hours per week,6 Weeks,149
+452,Financial Accounting Made Fun: Eliminating Your Fears,36787,Self-paced on your time,Babson College,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,4 Weeks,199
+453,PredictionX: John Snow and the Cholera Epidemic of 1854,17713,Self-paced on your time,Harvard University,Introductory,History,Inglés,Inglés,3–5 hours per week,1 Weeks,25
+454,Gestión de operaciones,9512,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Business & Management,Español,"Inglés, Español",5–7 hours per week,6 Weeks,119
+455,Microeconomics & Business,10962,Self-paced on your time,Doane University,Introductory,Economics & Finance,Inglés,Inglés,10–18 hours per week,8 Weeks,79
+456,Inteligencia artificial: Chatbots sin programación,5001,Self-paced on your time,IBM,Introductory,Computer Science,Español,Inglés,2–4 hours per week,2 Weeks,49
+457,Diseño e innovación de modelo de negocios,7180,Self-paced on your time,Tecnológico de Monterrey,Advanced,Business & Management,Español,Inglés,5–8 hours per week,4 Weeks,99
+458,Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),29171,Self-paced on your time,World Bank Group,Introductory,Economics & Finance,Inglés,Inglés,4–6 hours per week,4 Weeks,5
+459,Business Communication,0,Self-paced on your time,Rochester Institute of Technology,Introductory,Communication,Inglés,Inglés,4–6 hours per week,3 Weeks,199
+460,Gestão de riscos em projetos,8771,Self-paced on your time,Inter-American Development Bank,Intermediate,Business & Management,Portugués,Portugués,3–4 hours per week,10 Weeks,25
+461,Vocal Recording Technology,52369,Self-paced on your time,Berklee College of Music,Introductory,Engineering,Inglés,Inglés,5–6 hours per week,6 Weeks,49
+462,Agua 2.0: empresas eficientes para el siglo XXI,0,Self-paced on your time,Inter-American Development Bank,Introductory,Business & Management,Español,Español,2–3 hours per week,8 Weeks,25
+463,IoT Sensors and Devices,33072,Self-paced on your time,Curtin University,Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,199
+464,Introducción a las tecnologías para la Educación,31533,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,3–4 hours per week,5 Weeks,49
+465,Fundamentos de la guitarra eléctrica y acústica,13124,Self-paced on your time,Berklee College of Music,Introductory,Music,Español,Español,2–5 hours per week,6 Weeks,49
+466,e-Learning on Digital Agriculture,6238,Self-paced on your time,World Bank Group,Introductory,Environmental Studies,Inglés,Inglés,2–3 hours per week,5 Weeks,5
+467,Exploring GraphQL: A Query Language for APIs,9503,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,1–2 hours per week,7 Weeks,149
+468,EmSAT English Preparation - Level 2,7346,Self-paced on your time,United Arab Emirates University,Intermediate,Language,Inglés,Inglés,2–3 hours per week,6 Weeks,49
+469,The Data Science Method,7868,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,3–7 hours per week,7 Weeks,39
+470,"Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源",21291,Self-paced on your time,Tsinghua University,Introductory,Humanities,Inglés,"Inglés, Chino",1–3 hours per week,16 Weeks,49
+471,"Cosmic Rays, Dark Matter, and the Mysteries of the Universe",12888,Self-paced on your time,Waseda University,Intermediate,Physics,Inglés,Inglés,3–5 hours per week,4 Weeks,49
+472,Macroeconomic Diagnostics,23408,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,6–8 hours per week,6 Weeks,25
+473,BioStatistics,14937,Self-paced on your time,Doane University,Introductory,Biology & Life Sciences,Inglés,Inglés,5–10 hours per week,8 Weeks,79
+474,Results-Based Project Management: Monitoring and Evaluation,32810,Self-paced on your time,Wits University,Intermediate,Business & Management,Inglés,Inglés,3–4 hours per week,8 Weeks,199
+475,Estrategias y estilos de negociación,12639,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Español,Inglés,5–8 hours per week,4 Weeks,149
+476,Políticas efectivas de desarrollo infantil,64387,Self-paced on your time,Inter-American Development Bank,Intermediate,Social Sciences,Español,"Inglés, Español, Portugués",4–5 hours per week,10 Weeks,25
+477,Alzheimer’s Disease & Dementia Care,5763,Self-paced on your time,Salisbury University-University System of Maryland,Intermediate,Medicine,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+478,Understanding Classroom Interaction,27114,Self-paced on your time,University of Pennsylvania,Introductory,Education & Teacher Training,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+479,Sign Language Science: Emergence and Evolution of Sign Language,8313,Self-paced on your time,Georgetown University,Introductory,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,99
+480,International Humanitarian Law,31419,Self-paced on your time,Université catholique de Louvain,Advanced,Law,Inglés,Inglés,4–12 hours per week,12 Weeks,150
+481,"Educación de calidad para todos: equidad, inclusión y atención a la diversidad",25111,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Education & Teacher Training,Español,Español,3–5 hours per week,6 Weeks,49
+482,Introduction to Astrophysics,20802,Self-paced on your time,École polytechnique fédérale de Lausanne,Introductory,Physics,Inglés,Inglés,3–4 hours per week,7 Weeks,139
+483,Epidemics I,10618,Self-paced on your time,University of Hong Kong,Introductory,Medicine,Inglés,"Inglés, Chino, Chino",2–3 hours per week,5 Weeks,139
+484,Introducción a la genética y la evolución,15297,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Biology & Life Sciences,Español,Español,2–3 hours per week,3 Weeks,49
+485,Fundamentals of Macroeconomics,17820,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Economics & Finance,Inglés,Inglés,2–3 hours per week,6 Weeks,129
+486,"Blockchain and FinTech: Basics, Applications, and Limitations",22011,Self-paced on your time,University of Hong Kong,Introductory,Computer Science,Inglés,"Inglés, Chino",3–4 hours per week,6 Weeks,199
+487,Molecular Biology - Part 2: Transcription and Transposition,18168,Self-paced on your time,Massachusetts Institute of Technology,Advanced,Biology & Life Sciences,Inglés,"Inglés, Chino",4–8 hours per week,7 Weeks,99
+488,"One Planet, One Ocean",12166,Self-paced on your time,SDG Academy,Intermediate,Environmental Studies,Inglés,Inglés,4–6 hours per week,6 Weeks,49
+489,Reputation Management in a Digital World,39672,Self-paced on your time,Curtin University,Intermediate,Communication,Inglés,Inglés,3–4 hours per week,6 Weeks,99
+490,Google Ads: publicidad efectiva,12084,Self-paced on your time,Universidad Galileo,Introductory,Business & Management,Español,Español,2–4 hours per week,5 Weeks,49
+491,Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,14673,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Engineering,Español,Español,3–4 hours per week,4 Weeks,50
+492,Computer Vision Fundamentals with Watson and OpenCV,7032,Self-paced on your time,IBM,Introductory,Computer Science,Inglés,Inglés,7–14 hours per week,14 Weeks,99
+493,Japanese Business Management,14852,Self-paced on your time,Waseda University,Intermediate,Business & Management,Inglés,Inglés,3–5 hours per week,4 Weeks,129
+494,Introduction to Cloud Computing,0,Self-paced on your time,IBM,Introductory,Computer Science,Inglés,Inglés,1–2 hours per week,6 Weeks,49
+495,Fundamentos de logística,7397,Self-paced on your time,LOGYCA,Introductory,Engineering,Español,Español,4–8 hours per week,5 Weeks,29
+496,Sustainable Urban Development,45760,Self-paced on your time,Delft University of Technology-Wageningen University & Research-Delft University & Wageningen University,Introductory,Social Sciences,Inglés,Inglés,4–6 hours per week,7 Weeks,50
+497,Introduction to Biomedical Imaging,56485,Self-paced on your time,The University of Queensland,Introductory,Medicine,Inglés,Inglés,4–5 hours per week,12 Weeks,99
+498,Introducción a la programación en Java: empezando a programar,23321,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Computer Science,Español,Español,7–10 hours per week,5 Weeks,49
+499,"Circuits and Electronics 2: Amplification, Speed, and Delay",9665,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Electronics,Inglés,"Inglés, Chino",7–9 hours per week,5 Weeks,169
+500,China’s Political and Intellectual Foundations: From Sage Kings to Confucius,47083,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+501,Introduction to DevOps and Site Reliability Engineering,8697,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,1–2 hours per week,10 Weeks,149
+502,SQL aplicado en la  ciencia de datos,0,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Español,Español,2–4 hours per week,4 Weeks,39
+503,Sign Language Science: Factors Contributing to Nature Structure,0,Self-paced on your time,Georgetown University,Introductory,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,99
+504,Gender and Intersectionality,0,Self-paced on your time,The University of Iceland,Introductory,Humanities,Inglés,Inglés,2–5 hours per week,6 Weeks,50
+505,Digital Transformation in Business,10118,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Advanced,Business & Management,Inglés,Inglés,8–10 hours per week,7 Weeks,214
+506,Designing and Creating Trousers,7544,Self-paced on your time,The Hong Kong Polytechnic University,Introductory,Design,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+507,Introducción a la teoría política: conceptos y grandes pensadores,11741,Self-paced on your time,Università degli Studi di Napoli Federico II,Introductory,Social Sciences,Español,Español,4–6 hours per week,7 Weeks,59
+508,"Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion",11426,Self-paced on your time,SDG Academy,Intermediate,Social Sciences,Inglés,"Inglés, Русский",2–4 hours per week,11 Weeks,49
+509,Industry 4.0: How to Revolutionize your Business,28404,Self-paced on your time,The Hong Kong Polytechnic University,Introductory,Business & Management,Inglés,Inglés,6–8 hours per week,6 Weeks,50
+510,Desafíos y oportunidades en la economía digital,47792,Self-paced on your time,Inter-American Development Bank,Introductory,Economics & Finance,Español,Español,2–3 hours per week,10 Weeks,25
+511,Pensamiento crítico: toma de decisiones razonadas,16853,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Español,Español,5–8 hours per week,4 Weeks,149
+512,"MathTrackX: Polynomials, Functions and Graphs",0,Self-paced on your time,University of Adelaide,Introductory,Math,Inglés,Inglés,3–6 hours per week,4 Weeks,79
+513,Sustainable Food Security: Crop Production,35367,Self-paced on your time,Wageningen University & Research,Intermediate,Biology & Life Sciences,Inglés,Inglés,6–8 hours per week,6 Weeks,49
+514,Network and Security Foundations,7301,Self-paced on your time,Western Governors University,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,8 Weeks,299
+515,Cannabis Cultivation and Processing,7419,Self-paced on your time,Doane University,Introductory,Environmental Studies,Inglés,Inglés,5–10 hours per week,3 Weeks,179
+516,"Data, Models and Decisions in Business Analytics",36289,Instructor-led on a course schedule,Columbia University,Advanced,Business & Management,Inglés,,8–10 hours per week,12 Weeks,249
+517,Data Structures Fundamentals,42381,Self-paced on your time,"The University of California, San Diego",Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,6 Weeks,99
+518,Shaping Work of the Future,22246,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,4–5 hours per week,8 Weeks,49
+519,Introducción a la robótica e industria 4.0,7056,Self-paced on your time,Universidades Anáhuac,Introductory,Computer Science,Español,Español,4–5 hours per week,3 Weeks,49
+520,Fighting for Equality: 1950–2018,9274,Self-paced on your time,Columbia University,Intermediate,History,Inglés,Inglés,2–3 hours per week,10 Weeks,50
+521,"Design Thinking: Ideation, Iteration and Communication",14629,Self-paced on your time,Rochester Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,8–12 hours per week,6 Weeks,299
+522,Negotiation Strategies and Styles,0,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Business & Management,Inglés,Inglés,5–8 hours per week,4 Weeks,149
+523,Crear música con tecnología,10961,Self-paced on your time,Berklee College of Music,Introductory,Music,Español,Español,3–5 hours per week,6 Weeks,49
+524,Análisis de datos: Diseño y Visualización de Tableros,18368,Self-paced on your time,Delft University of Technology,Intermediate,Computer Science,Español,"Inglés, Español",4–6 hours per week,8 Weeks,49
+525,Comunicación estratégica: gestión de crisis e imagen pública,7017,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Communication,Español,Español,2–4 hours per week,4 Weeks,49
+526,"Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems",14052,Self-paced on your time,University of Adelaide,Intermediate,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+527,Unlocking Information Security: Part II,6426,Self-paced on your time,IsraelX-Tel Aviv University,Intermediate,Computer Science,Inglés,"Árabe, Inglés, עברית",4–6 hours per week,6 Weeks,149
+528,Human Rights Defenders,27338,Self-paced on your time,Amnesty International,Introductory,Social Sciences,Inglés,Inglés,4–5 hours per week,4 Weeks,49
+529,Product Design: The Delft Design Approach,87539,Self-paced on your time,Delft University of Technology,Intermediate,Business & Management,Inglés,Inglés,6–8 hours per week,7 Weeks,79
+530,Introduction to Psychology | 心理学概论,30731,Self-paced on your time,Tsinghua University,Introductory,Philosophy & Ethics,Chino,Inglés,3–5 hours per week,13 Weeks,139
+531,Circuits and Electronics 3: Applications,9347,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Electronics,Inglés,"Inglés, Chino",8–10 hours per week,7 Weeks,169
+532,Vaccines: from smallpox to technologies of the future,6166,Self-paced on your time,KU Leuven University,Intermediate,Medicine,Inglés,Inglés,3–5 hours per week,6 Weeks,49
+533,Le management,6273,Self-paced on your time,HEC Montréal,Introductory,Business & Management,Francés,Francés,2–3 hours per week,5 Weeks,149
+534,Circular Economy for a Sustainable Built Environment,8032,Self-paced on your time,Delft University of Technology,Intermediate,Architecture,Inglés,Inglés,3–5 hours per week,6 Weeks,50
+535,Agile Innovation and Problem Solving Skills,12667,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Advanced,Engineering,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+536,International Investment Law,23335,Instructor-led on a course schedule,Université catholique de Louvain,Advanced,Law,Inglés,Inglés,6–8 hours per week,10 Weeks,150
+537,Animation and CGI Motion,36827,Instructor-led on a course schedule,Columbia University,Advanced,Computer Science,Inglés,Inglés,8–10 hours per week,12 Weeks,249
+538,Terrorism and Counterterrorism,28580,Self-paced on your time,Georgetown University,Introductory,Humanities,Inglés,Inglés,8–10 hours per week,7 Weeks,49
+539,Découvrir le marketing,30030,Instructor-led on a course schedule,Université catholique de Louvain,Intermediate,Business & Management,Francés,Francés,3–5 hours per week,10 Weeks,150
+540,Solar Energy: Photovoltaic (PV) Energy Conversion,38041,Instructor-led on a course schedule,Delft University of Technology,Advanced,Engineering,Inglés,Inglés,10–11 hours per week,12 Weeks,250
+541,Introduction to Actuarial Science,52667,Self-paced on your time,Australian National University,Introductory,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,8 Weeks,49
+542,PredictionX: Lost Without Longitude,9114,Self-paced on your time,Harvard University,Introductory,History,Inglés,Inglés,2–5 hours per week,1 Weeks,49
+543,Information Technology Foundations,6388,Self-paced on your time,Western Governors University,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,6 Weeks,399
+544,Introducción a la Inteligencia Artificial de Watson,0,Self-paced on your time,IBM,Introductory,Computer Science,Español,Español,4–8 hours per week,8 Weeks,49
+545,Dealing with Power and Dynamics: Discover Your Leadership Style and Influence Stakeholders,16013,Self-paced on your time,Delft University of Technology,Intermediate,Business & Management,Inglés,Inglés,4–5 hours per week,5 Weeks,125
+546,Instructional Design and Technology: Learning Theories,21296,Instructor-led on a course schedule,University System of Maryland-University of Maryland Global Campus,Intermediate,Education & Teacher Training,Inglés,Inglés,8–10 hours per week,8 Weeks,299
+547,"Algorithms: Design and Analysis, Part 2",0,Self-paced on your time,Stanford University,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,6 Weeks,149
+548,The Math of Data Science: Linear Algebra,6746,Self-paced on your time,Rice University,Intermediate,Math,Inglés,Inglés,6–8 hours per week,8 Weeks,159
+549,Introducción al quirófano,0,Self-paced on your time,Universidades Anáhuac,Intermediate,Medicine,Español,Español,3–4 hours per week,6 Weeks,49
+550,The Hardware of a Quantum Computer,20052,Self-paced on your time,Delft University of Technology,Intermediate,Physics,Inglés,Inglés,6–8 hours per week,6 Weeks,79
+551,Grabar y mezclar música,10856,Self-paced on your time,Berklee College of Music,Introductory,Music,Español,Español,3–5 hours per week,4 Weeks,49
+552,Leadership focused on Human Flourishing,0,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Business & Management,Inglés,Inglés,5–8 hours per week,4 Weeks,149
+553,Automata Theory,0,Self-paced on your time,Stanford University,Advanced,Computer Science,Inglés,Inglés,5–10 hours per week,7 Weeks,129
+554,¡Conceptos básicos de Python para Data Science!,0,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Español,Español,2–5 hours per week,5 Weeks,49
+555,Herramientas para el Análisis de Big Data,8118,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Data Analysis & Statistics,Español,Español,3–5 hours per week,4 Weeks,49
+556,Foundations of Central Bank Law,6169,Self-paced on your time,The International Monetary Fund,Intermediate,Law,Inglés,Inglés,2–6 hours per week,6 Weeks,25
+557,C Programming: Modular Programming and Memory Management,18690,Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+558,Enseñanza temprana de matemáticas y ciencias,8250,Self-paced on your time,Inter-American Development Bank,Introductory,Education & Teacher Training,Español,Español,1–2 hours per week,10 Weeks,25
+559,Entrepreneurship 102: What can you do for your customer?,11275,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,10 Weeks,49
+560,Italian Language and Culture: Advanced (2019-2020),24667,Self-paced on your time,Wellesley College,Advanced,Language,Italiano,Italiano,3–5 hours per week,12 Weeks,49
+561,Introduction to Marketing,0,Self-paced on your time,The University of Edinburgh,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,6 Weeks,149
+562,Origins of the Human Mind,11812,Self-paced on your time,Kyoto University,Introductory,Science,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+563,Introduction to Geometry,61824,Self-paced on your time,SchoolYourself,Introductory,Math,Inglés,Inglés,4–6 hours per week,14 Weeks,50
+564,The Future of Work: Preparing for Disruption,43125,Self-paced on your time,World Bank Group,Introductory,Economics & Finance,Inglés,"Árabe, Inglés, Español, Francés, Русский, Chino",3–5 hours per week,5 Weeks,5
+565,Clinical Reasoning Process,5367,Self-paced on your time,Université de Montréal,Introductory,Medicine,Inglés,Inglés,2–4 hours per week,6 Weeks,149
+566,Datos para la efectividad de las políticas públicas,80425,Self-paced on your time,Inter-American Development Bank,Introductory,Data Analysis & Statistics,Español,Español,4–5 hours per week,10 Weeks,25
+567,Media Law,7253,Instructor-led on a course schedule,New York University,Introductory,Art & Culture,Inglés,Inglés,8–10 hours per week,14 Weeks,249
+568,Líderes para la Gestión en Seguridad Ciudadana y Justicia,12826,Self-paced on your time,Inter-American Development Bank,Intermediate,Social Sciences,Español,Español,4–5 hours per week,10 Weeks,25
+569,"Diseña, fabrica y programa tu propio robot",25024,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Engineering,Español,Español,8–10 hours per week,6 Weeks,75
+570,Pivoting to Online Teaching: Research and Practitioner Perspectives,5289,Self-paced on your time,University of Texas at Arlington,Introductory,Education & Teacher Training,Inglés,Inglés,3–5 hours per week,6 Weeks,139
+571,Circular Economy: An Interdisciplinary Approach,10281,Self-paced on your time,Wageningen University & Research,Advanced,Business & Management,Inglés,Inglés,16–24 hours per week,6 Weeks,149
+572,Calculus 1B: Integration,44669,Instructor-led on a course schedule,Massachusetts Institute of Technology,Intermediate,Math,Inglés,Inglés,6–10 hours per week,15 Weeks,100
+573,Algorithmic Design and Techniques,40620,Self-paced on your time,"The University of California, San Diego",Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,6 Weeks,99
+574,Drinking Water Treatment,51918,Self-paced on your time,Delft University of Technology,Intermediate,Engineering,Inglés,Inglés,6–8 hours per week,7 Weeks,50
+575,Fundamentos de información financiera y contable,7789,Self-paced on your time,Universidades Anáhuac,Intermediate,Economics & Finance,Español,Español,5–7 hours per week,5 Weeks,49
+576,Les principes de la finance,44037,Self-paced on your time,Université catholique de Louvain,Intermediate,Business & Management,Francés,Francés,4–7 hours per week,13 Weeks,150
+577,Music Technology Foundations,34550,Self-paced on your time,University of Adelaide,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,6 Weeks,169
+578,The Entrepreneurial Mindset,31077,Self-paced on your time,Babson College,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,149
+579,"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems",26453,Self-paced on your time,The University of Michigan,Introductory,Biology & Life Sciences,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+580,Risk Management and Credit Principles,9028,Self-paced on your time,NYIF,Advanced,Economics & Finance,Inglés,Inglés,2–3 hours per week,6 Weeks,199
+581,Steps in Japanese for Beginners1 Part3,6169,Self-paced on your time,Waseda University,Introductory,Language,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+582,Structural Materials: Selection and Economics,9752,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Engineering,Inglés,Inglés,2–3 hours per week,3 Weeks,50
+583,Algorithm Design and Analysis,39137,Self-paced on your time,University of Pennsylvania,Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,4 Weeks,149
+584,Estructuras de Datos con Python,0,Self-paced on your time,The University of Michigan,Introductory,Computer Science,Español,Español,2–4 hours per week,7 Weeks,49
+585,Mandarin Chinese for Business,12384,Self-paced on your time,MandarinX,Intermediate,Language,Inglés,Inglés,4–10 hours per week,6 Weeks,149
+586,Bases Matemáticas: Números y terminología,26060,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Math,Español,Español,3–4 hours per week,4 Weeks,50
+587,Arab-Islamic History: From Tribes to Empires,17321,Self-paced on your time,IsraelX-Tel Aviv University,Introductory,Humanities,Inglés,Inglés,3–4 hours per week,8 Weeks,149
+588,Human-Computer Interaction I: Fundamentals & Design Principles,9010,Self-paced on your time,The Georgia Institute of Technology,Introductory,Computer Science,Inglés,Inglés,5–6 hours per week,6 Weeks,99
+589,Modeling and simulation of multibody systems,0,Instructor-led on a course schedule,Université catholique de Louvain,Intermediate,Engineering,Inglés,Inglés,10–11 hours per week,14 Weeks,50
+590,The Science of Parenting,37538,Self-paced on your time,"The University of California, San Diego",Introductory,Social Sciences,Inglés,Inglés,3–5 hours per week,5 Weeks,49
+591,Inclusive Teaching: Supporting All Students in the College Classroom,9899,Self-paced on your time,Columbia University,Introductory,Education & Teacher Training,Inglés,Inglés,2–3 hours per week,6 Weeks,49
+592,Analytics for Decision Making,31031,Self-paced on your time,Babson College,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,4 Weeks,249
+593,Principios de Análisis e Instrumentos Financieros,0,Self-paced on your time,Universidades Anáhuac,Intermediate,Economics & Finance,Español,Español,5–7 hours per week,5 Weeks,49
+594,Energy Principles and Renewable Energy,19520,Instructor-led on a course schedule,The University of Queensland,Advanced,Energy & Earth Sciences,Inglés,Inglés,10–12 hours per week,14 Weeks,375
+595,DNA: Biology’s Genetic Code,35162,Self-paced on your time,Rice University,Intermediate,Biology & Life Sciences,Inglés,Inglés,4–6 hours per week,6 Weeks,169
+596,Music For Wellness,19728,Self-paced on your time,Berklee College of Music,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,4 Weeks,49
+597,Mining Massive Datasets,5311,Self-paced on your time,Stanford University,Advanced,Computer Science,Inglés,Inglés,5–10 hours per week,7 Weeks,149
+598,Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -,25041,Self-paced on your time,Tokyo Institute of Technology,Introductory,Engineering,Inglés,"Inglés, Chino",2–3 hours per week,4 Weeks,50
+599,A travel by Spanish America: Spanish for beginners,0,Self-paced on your time,Universidad del Rosario,Introductory,Language,Español,Español,4–6 hours per week,4 Weeks,49
+600,Introducción a la Inteligencia Artificial,11184,Self-paced on your time,Universidades Anáhuac,Introductory,Computer Science,Español,Español,4–5 hours per week,4 Weeks,49
+601,Introducción a la Inteligencia Artificial: Principales Algoritmos,0,Self-paced on your time,Universidad Galileo,Introductory,Computer Science,Español,Español,4–5 hours per week,4 Weeks,49
+602,Digital Security and Human Rights,11443,Self-paced on your time,Amnesty International,Introductory,Social Sciences,Inglés,Inglés,1–2 hours per week,3 Weeks,49
+603,Critical thinking: reasoned decision making,6923,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Inglés,Inglés,5–8 hours per week,4 Weeks,149
+604,Introduction to the Internet of Things,7581,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Electronics,Inglés,Inglés,5–6 hours per week,6 Weeks,50
+605,Trading - Fundamentals of Technical Analysis,0,Self-paced on your time,NYIF,Introductory,Economics & Finance,Inglés,Inglés,2–3 hours per week,6 Weeks,199
+606,Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,20261,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Medicine,Español,Español,3–5 hours per week,6 Weeks,49
+607,Design Thinking: Empathizing to Understand the Problem,13340,Self-paced on your time,Rochester Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,8–12 hours per week,6 Weeks,299
+608,Storytelling in the Workplace,0,Self-paced on your time,Rochester Institute of Technology,Introductory,Communication,Inglés,Inglés,4–6 hours per week,3 Weeks,199
+609,Marketing Analytics: Price and Promotion Analytics,41021,Self-paced on your time,"University of California, Berkeley",Intermediate,Computer Science,Inglés,Inglés,5–7 hours per week,4 Weeks,249
+610,Implementation of Data Structures,27761,Self-paced on your time,IITBombay,Intermediate,Computer Science,Inglés,Inglés,6–8 hours per week,6 Weeks,149
+611,Activism and Citizen Journalism through Media,7460,Self-paced on your time,Wits University,Introductory,Communication,Inglés,Inglés,2–3 hours per week,4 Weeks,49
+612,Electric and Conventional Vehicles,22089,Instructor-led on a course schedule,Chalmers University of Technology,Advanced,Engineering,Inglés,Inglés,10–20 hours per week,6 Weeks,249
+613,Big Data Fundamentals,40106,Self-paced on your time,University of Adelaide,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,10 Weeks,199
+614,Sustainable Food Security: The value of systems thinking,26600,Self-paced on your time,Wageningen University & Research,Introductory,Biology & Life Sciences,Inglés,Inglés,8–10 hours per week,6 Weeks,49
+615,Knowledge Management and Big Data in Business,69064,Self-paced on your time,The Hong Kong Polytechnic University,Introductory,Business & Management,Inglés,Inglés,6–8 hours per week,8 Weeks,50
+616,Uso efectivo del tiempo,6409,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Economics & Finance,Español,Español,6–8 hours per week,6 Weeks,49
+617,C Programming: Pointers and Memory Management,19171,Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+618,Astrophysics: The Violent Universe,65711,Self-paced on your time,Australian National University,Intermediate,Physics,Inglés,Inglés,2–4 hours per week,10 Weeks,50
+619,Landscape Ecology,8644,Self-paced on your time,ETH Zurich,Intermediate,Environmental Studies,Inglés,Inglés,2–4 hours per week,14 Weeks,50
+620,IoT Programming and Big Data,21591,Self-paced on your time,Curtin University,Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,199
+621,AWS: Getting Started with Cloud Security,8192,Self-paced on your time,Amazon Web Services,Introductory,Computer Science,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+622,Introducción a la gravedad cuántica de lazos,7360,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Science,Español,"Inglés, Español",5–7 hours per week,5 Weeks,50
+623,Introduction to the Music Business,46607,Self-paced on your time,Berklee College of Music,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+624,Introducción a la programación en C: Tipos de datos y estructuras,13480,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Computer Science,Español,Español,2–4 hours per week,4 Weeks,49
+625,Visualización de Datos y Storytelling,5980,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Data Analysis & Statistics,Español,Español,3–5 hours per week,4 Weeks,49
+626,Negociación exitosa: Estrategias y habilidades esenciales (en español),0,Self-paced on your time,The University of Michigan,Introductory,Business & Management,Español,Español,2–4 hours per week,7 Weeks,49
+627,"Feeding a Hungry Planet: Agriculture, Nutrition and Sustainability",10488,Self-paced on your time,SDG Academy,Intermediate,Environmental Studies,Inglés,"Inglés, Русский",3–5 hours per week,7 Weeks,49
+628,Macroeconomics - The Basics,0,Self-paced on your time,Doane University,Introductory,Economics & Finance,Inglés,Inglés,10–18 hours per week,8 Weeks,79
+629,Fundamentals of Financial Mathematics and Capital Budgeting,5410,Self-paced on your time,NYIF,Introductory,Economics & Finance,Inglés,Inglés,1–2 hours per week,4 Weeks,99
+630,Gestión participativa: motivación y liderazgo organizacional,23441,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Business & Management,Español,Español,3–4 hours per week,8 Weeks,79
+631,Herramientas de ciencia de datos: uso práctico,0,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Español,Español,3–7 hours per week,7 Weeks,39
+632,Bienestar para el desarrollo personal y profesional,0,Self-paced on your time,Universidades Anáhuac,Intermediate,Health & Safety,Español,"Inglés, Español",5–7 hours per week,5 Weeks,29
+633,Energía eléctrica: conceptos y principios básicos,9762,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Engineering,Español,Español,4–5 hours per week,7 Weeks,49
+634,Market Segmentation Analysis,17055,Self-paced on your time,The University of Queensland,Intermediate,Business & Management,Inglés,Inglés,6–8 hours per week,5 Weeks,99
+635,Pensamento crítico: tomada de decisões fundamentadas,0,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Portugués,Portugués,5–8 hours per week,4 Weeks,149
+636,AP® English Literature & Composition – Part 2: Poems,5719,Self-paced on your time,"University of California, Berkeley",Introductory,Humanities,Inglés,Inglés,4–5 hours per week,7 Weeks,49
+637,"Electrical, Optical & Magnetic Materials and Devices",16905,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Engineering,Inglés,Inglés,8–12 hours per week,16 Weeks,150
+638,Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),0,Self-paced on your time,University of Hong Kong,Introductory,Medicine,Inglés,"Inglés, Francés, Chino, Chino",2–3 hours per week,4 Weeks,99
+639,How to Design a Successful Business Model,33656,Self-paced on your time,Delft University of Technology,Introductory,Business & Management,Inglés,"Alemán, Inglés, Español, Francés",2–4 hours per week,8 Weeks,99
+640,Ecodesign for Cities and Suburbs,28472,Self-paced on your time,University of British Columbia,Introductory,Environmental Studies,Inglés,,4–5 hours per week,6 Weeks,99
+641,Agile Software Development,37158,Self-paced on your time,ETH Zurich,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,6 Weeks,50
+642,Diseño de sistemas de información gerencial para intranet con Microsoft Access,9144,Self-paced on your time,Universidad del Rosario,Intermediate,Computer Science,Español,Español,6–10 hours per week,4 Weeks,49
+643,Essentials of Program Strategy and Evaluation,0,Self-paced on your time,Stanford University,Introductory,Philanthropy,Inglés,Inglés,5–10 hours per week,4 Weeks,50
+644,Gestão de Projetos de Desenvolvimento,28337,Self-paced on your time,Inter-American Development Bank,Introductory,Business & Management,Portugués,Portugués,3–4 hours per week,10 Weeks,49
+645,Innovation: From Plan to Product,12918,Self-paced on your time,The University of Queensland,Intermediate,Business & Management,Inglés,Inglés,8–10 hours per week,10 Weeks,249
+646,Introduction to Database Queries,0,Self-paced on your time,New York University,Introductory,Computer Science,Inglés,Inglés,6–8 hours per week,5 Weeks,166
+647,Climate Change: Carbon Capture and Storage,10551,Self-paced on your time,The University of Edinburgh,Introductory,Engineering,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+648,Reservoir Geomechanics,5280,Self-paced on your time,Stanford University,Introductory,Energy & Earth Sciences,Inglés,Inglés,3–6 hours per week,10 Weeks,129
+649,Fundamentos de administración estratégica,0,Self-paced on your time,Universidades Anáhuac,Intermediate,Business & Management,Español,Español,5–7 hours per week,5 Weeks,49
+650,IoT System Architecture: Design and Evaluation,5914,Self-paced on your time,Waseda University,Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,3 Weeks,99
+651,Noongar Language and Culture,10858,Self-paced on your time,Curtin University,Introductory,Language,Inglés,Inglés,2–3 hours per week,6 Weeks,139
+652,Sorting Truth From Fiction: Civic Online Reasoning,0,Instructor-led on a course schedule,Massachusetts Institute of Technology,Introductory,Education & Teacher Training,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+653,Sustainable Food Security: Food Access,18943,Self-paced on your time,Wageningen University & Research,Introductory,Social Sciences,Inglés,Inglés,6–8 hours per week,6 Weeks,49
+654,Bases Matemáticas: Integrales,23703,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Math,Español,Español,4–5 hours per week,5 Weeks,50
+655,Epidemics II,8565,Self-paced on your time,University of Hong Kong,Introductory,Medicine,Inglés,"Inglés, Chino, Chino",2–3 hours per week,3 Weeks,139
+656,Derechos humanos: Los derechos de las personas refugiadas,28398,Self-paced on your time,Amnesty International,Introductory,Humanities,Español,Español,3–5 hours per week,3 Weeks,49
+657,Sign Language Science: Factors Contributing to Natural Learning,0,Self-paced on your time,Georgetown University,Introductory,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,99
+658,Big Data Analytics,43009,Self-paced on your time,University of Adelaide,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,10 Weeks,199
+659,"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods",6594,Self-paced on your time,Imperial College London,Intermediate,Math,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+660,ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible,16028,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Social Sciences,Español,"Inglés, Español",3–4 hours per week,6 Weeks,25
+661,Achieving Product-Market Fit,0,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+662,Culture and Law: The East Asian Perspective,0,Self-paced on your time,Waseda University,Introductory,Social Sciences,Inglés,Inglés,4–6 hours per week,3 Weeks,49
+663,Fundamentals of Market Structure,32049,Self-paced on your time,NYIF,Introductory,Economics & Finance,Inglés,Inglés,1–2 hours per week,1 Weeks,25
+664,Protecting Children in Humanitarian Settings,7246,Self-paced on your time,Columbia University,Intermediate,Social Sciences,Inglés,Inglés,3–5 hours per week,12 Weeks,50
+665,How to Achieve the Sustainable Development Goals,12719,Self-paced on your time,SDG Academy,Intermediate,Environmental Studies,Inglés,"Inglés, Русский",4–6 hours per week,7 Weeks,49
+666,Aprendizaje y Enseñanza en la Era Digital,16954,Self-paced on your time,Universidad Galileo,Intermediate,Education & Teacher Training,Español,Español,4–5 hours per week,4 Weeks,49
+667,From Atoms to Stars: How Physics Explains Our World,15914,Self-paced on your time,National Research Nuclear University,Intermediate,Physics,Inglés,"Inglés, Русский",2–3 hours per week,4 Weeks,49
+668,The Threat of Nuclear Terrorism,0,Self-paced on your time,Stanford University,Introductory,History,Inglés,Inglés,1–5 hours per week,5 Weeks,50
+669,Introducción a Matemáticas para Finanzas y Negocios,0,Self-paced on your time,Tecnológico de Monterrey,Advanced,Economics & Finance,Español,Español,5–8 hours per week,5 Weeks,49
+670,Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO),0,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Engineering,Español,Español,4–5 hours per week,7 Weeks,75
+671,Liderazgo inclusivo,0,Self-paced on your time,Universidad Carlos III de Madrid,Intermediate,Business & Management,Español,Español,3–5 hours per week,5 Weeks,29
+672,مساق اللّغة العربيّة,0,Self-paced on your time,United Arab Emirates University,Introductory,Language,Árabe,Árabe,3–4 hours per week,8 Weeks,49
+673,"Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet",8330,Self-paced on your time,Delft University of Technology,Intermediate,Physics,Inglés,Inglés,6–8 hours per week,6 Weeks,79
+674,Contemporary Issues in World Politics,11426,Self-paced on your time,Università degli Studi di Napoli Federico II,Introductory,Social Sciences,Inglés,Inglés,4–6 hours per week,7 Weeks,59
+675,More Fun with Prime Numbers,10604,Self-paced on your time,Kyoto University,Intermediate,Math,Inglés,Inglés,1–2 hours per week,5 Weeks,49
+676,Enterprise Selling,5020,Self-paced on your time,Queen’s University,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,149
+677,Climate Change: Financial Risks and Opportunities,9977,Self-paced on your time,Imperial College Business School-Imperial College London,Intermediate,Economics & Finance,Inglés,Inglés,2–10 hours per week,4 Weeks,79
+678,Caer o No caer. El Secreto de las Estructuras.,20939,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Engineering,Español,Español,2–3 hours per week,8 Weeks,29
+679,Mandarin Chinese Level 2,8784,Self-paced on your time,MandarinX,Introductory,Language,Inglés,Inglés,4–10 hours per week,6 Weeks,149
+680,Design Thinking: Prototyping and User Testing,10769,Self-paced on your time,Rochester Institute of Technology,Intermediate,Business & Management,Inglés,Inglés,8–12 hours per week,6 Weeks,299
+681,Bases Matemáticas: Derivadas,24301,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Math,Español,Español,3–4 hours per week,5 Weeks,50
+682,Buscar en Internet,27320,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,3–4 hours per week,7 Weeks,49
+683,Big Data and Education,14909,Self-paced on your time,University of Pennsylvania,Advanced,Data Analysis & Statistics,Inglés,Inglés,6–12 hours per week,8 Weeks,169
+684,Model-Based Automotive Systems Engineering,13857,Instructor-led on a course schedule,Chalmers University of Technology,Advanced,Engineering,Inglés,Inglés,10–20 hours per week,7 Weeks,249
+685,Introduction to Hyperledger Blockchain Technologies,138884,Self-paced on your time,The Linux Foundation,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,14 Weeks,199
+686,MathTrackX: Integral Calculus,0,Self-paced on your time,University of Adelaide,Introductory,Math,Inglés,Inglés,3–6 hours per week,4 Weeks,79
+687,Solar Energy Engineering: Comprehensive Exams,0,Self-paced on your time,Delft University of Technology,Advanced,Engineering,Inglés,Inglés,4–6 hours per week,8 Weeks,250
+688,Mercados de capital y participantes claves,7210,Self-paced on your time,NYIF,Introductory,Economics & Finance,Español,Español,1–2 hours per week,2 Weeks,49
+689,Introducción al desarrollo de videojuegos con Unity,27474,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Computer Science,Español,Español,3–4 hours per week,6 Weeks,50
+690,Incorporating Renewable Energy in Electricity Grids,10430,Self-paced on your time,Imperial College London,Intermediate,Energy & Earth Sciences,Inglés,Inglés,2–5 hours per week,6 Weeks,49
+691,Herramientas de la Inteligencia de Negocios,24130,Self-paced on your time,Universidad Galileo,Introductory,Data Analysis & Statistics,Español,Español,5–6 hours per week,5 Weeks,49
+692,Overview & Management of Parkinson’s Disease,0,Self-paced on your time,Salisbury University-University System of Maryland,Intermediate,Medicine,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+693,Conociendo los costos,0,Self-paced on your time,Universidades Anáhuac,Intermediate,Economics & Finance,Español,Español,5–7 hours per week,5 Weeks,49
+694,Sprint Planning for Faster Agile Team Delivery,10654,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Advanced,Engineering,Inglés,Inglés,2–3 hours per week,4 Weeks,199
+695,Introduction to Water and Climate,36320,Self-paced on your time,Delft University of Technology,Intermediate,Engineering,Inglés,Inglés,6–8 hours per week,10 Weeks,50
+696,The Medieval Icelandic Sagas,11176,Self-paced on your time,The University of Iceland,Intermediate,Humanities,Inglés,Inglés,2–3 hours per week,6 Weeks,50
+697,Visual Presentation,0,Self-paced on your time,Rochester Institute of Technology,Introductory,Communication,Inglés,Inglés,4–6 hours per week,3 Weeks,199
+698,Community Engagement: Collaborating for Change,11818,Self-paced on your time,The University of Michigan,Introductory,Social Sciences,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+699,Introducción al Internet de las Cosas (IoT),6322,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Electronics,Español,Español,5–6 hours per week,6 Weeks,50
+700,"Proteins: Alignment, Analysis and Structure",23560,Instructor-led on a course schedule,University System of Maryland-University of Maryland Global Campus,Advanced,Biology & Life Sciences,Inglés,Inglés,8–10 hours per week,8 Weeks,249
+701,AI Applications with Watson,9173,Self-paced on your time,IBM,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,3 Weeks,99
+702,Data Analytics and Visualization in Health Care,7304,Self-paced on your time,Rochester Institute of Technology,Advanced,Data Analysis & Statistics,Inglés,Inglés,8–10 hours per week,8 Weeks,249
+703,Question Everything: Scientific Thinking in Real Life,34279,Self-paced on your time,The University of Queensland,Introductory,Math,Inglés,Inglés,2–4 hours per week,8 Weeks,59
+704,Introduction to Lifestyle Medicine,9002,Self-paced on your time,Doane University,Introductory,Biology & Life Sciences,Inglés,Inglés,5–10 hours per week,8 Weeks,79
+705,"Social Work Practice with Individuals, Families, and Small Groups",16134,Self-paced on your time,The University of Michigan,Advanced,Social Sciences,Inglés,Inglés,8–10 hours per week,8 Weeks,199
+706,Gateway to Medicine: An Introduction to the Field of Medicine|走近医学,6938,Self-paced on your time,Tsinghua University,Introductory,Medicine,Chino,"Inglés, Chino",1–3 hours per week,10 Weeks,49
+707,Indian & Tibetan River of Buddhism,6738,Self-paced on your time,Columbia University,Intermediate,Humanities,Inglés,Inglés,2–4 hours per week,12 Weeks,49
+708,Compostaje Orgánico en Casa,0,Instructor-led on a course schedule,Universidad Nacional de Córdoba,Introductory,Environmental Studies,Español,Español,4–5 hours per week,5 Weeks,29
+709,Financial Analysis for Decision Making,39156,Self-paced on your time,Babson College,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,4 Weeks,199
+710,Lifestyle Medicine Treatments of Chronic Disease – Part 1,5668,Self-paced on your time,Doane University,Intermediate,Medicine,Inglés,Inglés,10–15 hours per week,2 Weeks,179
+711,Building Containerized Applications on AWS,6128,Self-paced on your time,Amazon Web Services,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,5 Weeks,99
+712,Effective Communication for Program and Project Stakeholders and Teams,0,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,5 Weeks,199
+713,Biobased Products for a Sustainable (Bio)economy,6951,Self-paced on your time,DelftXRWTHx-Delft University of Technology-RWTH Aachen University,Introductory,Biology & Life Sciences,Inglés,Inglés,5–6 hours per week,10 Weeks,50
+714,Social Work Practice: Advocating Social Justice and Change,19603,Self-paced on your time,The University of Michigan,Introductory,Social Sciences,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+715,Anthropology of Current World Issues,44821,Instructor-led on a course schedule,The University of Queensland,Introductory,Humanities,Inglés,Inglés,2–4 hours per week,9 Weeks,99
+716,Buyer Behaviour and Analysis,19717,Instructor-led on a course schedule,Curtin University,Advanced,Communication,Inglés,Inglés,8–10 hours per week,12 Weeks,199
+717,Idea Development: Create and Implement Innovative Ideas,11501,Self-paced on your time,The University of Queensland,Intermediate,Business & Management,Inglés,Inglés,8–10 hours per week,10 Weeks,249
+718,Analysis of Transport Phenomena I: Mathematical Methods,9169,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Engineering,Inglés,Inglés,10–12 hours per week,17 Weeks,149
+719,Leading the Organization,14998,Self-paced on your time,The University of Queensland,Intermediate,Business & Management,Inglés,Inglés,8–10 hours per week,10 Weeks,249
+720,"Financial Programming and Policies, Part 2: Program Design",19330,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,6–8 hours per week,7 Weeks,25
+721,Introduction to Open Source Networking Technologies,17436,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,3–4 hours per week,14 Weeks,169
+722,Deep Learning Essentials,5018,Self-paced on your time,Université de Montréal,Intermediate,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,149
+723,Estadística Aplicada a los Negocios,25295,Self-paced on your time,Universidad Galileo,Introductory,Data Analysis & Statistics,Español,Español,5–6 hours per week,5 Weeks,49
+724,"English for Journalists, Part 2",22814,Self-paced on your time,"University of California, Berkeley",Intermediate,Communication,Inglés,Inglés,3–4 hours per week,5 Weeks,49
+725,Teaching & Learning in the Diverse Classroom,7104,Instructor-led on a course schedule,Cornell University,Introductory,Education & Teacher Training,Inglés,Inglés,2–4 hours per week,5 Weeks,99
+726,Fundamentals of Microeconomics | Fundamentos de Microeconomía,18456,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Social Sciences,Inglés,"Inglés, Español",2–3 hours per week,7 Weeks,129
+727,Migrating to the AWS Cloud,0,Self-paced on your time,Amazon Web Services,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,4 Weeks,49
+728,IoT Networks and Protocols,22136,Self-paced on your time,Curtin University,Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,199
+729,"American Prophet: The Inner Life and Global Vision of Martin Luther King, Jr.",0,Self-paced on your time,Stanford University,Introductory,History,Inglés,Inglés,2–4 hours per week,11 Weeks,50
+730,China’s First Empires and the Rise of Buddhism,46053,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+731,Apnea y Trastornos del Sueño,14902,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Health & Safety,Español,Español,9–10 hours per week,10 Weeks,49
+732,Educación sobre el cambio climático,23253,Self-paced on your time,Inter-American Development Bank,Introductory,Education & Teacher Training,Español,Español,4–5 hours per week,10 Weeks,25
+733,Quantum Mechanics: A First Course,0,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Physics,Inglés,Inglés,10–15 hours per week,18 Weeks,149
+734,Urban Sewage Treatment,40408,Self-paced on your time,Delft University of Technology,Intermediate,Engineering,Inglés,Inglés,6–8 hours per week,7 Weeks,50
+735,Doing Gender and Why it Matters,6826,Self-paced on your time,University of Hong Kong,Introductory,Social Sciences,Inglés,Inglés,1–2 hours per week,6 Weeks,99
+736,Producción musical y su efecto en la composición,7869,Self-paced on your time,Berklee College of Music,Introductory,Music,Español,Español,3–5 hours per week,6 Weeks,49
+737,"Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors",12425,Self-paced on your time,The Hong Kong University of Science and Technology,Intermediate,Electronics,Inglés,"Inglés, Chino",2–4 hours per week,8 Weeks,70
+738,"19th-Century Opera: Meyerbeer, Wagner, & Verdi",9340,Self-paced on your time,Harvard University,Introductory,Music,Inglés,Inglés,3–5 hours per week,6 Weeks,99
+739,Modelos predictivos con Machine Learning,5102,Self-paced on your time,Universidades Anáhuac,Intermediate,Computer Science,Español,Español,6–8 hours per week,4 Weeks,49
+740,Quantitative Marketing Research,0,Self-paced on your time,Indian Institute of Management Bangalore,Introductory,Business & Management,Inglés,Inglés,3–4 hours per week,5 Weeks,50
+741,Les fondements de la stratégie d’entreprise,33021,Instructor-led on a course schedule,Université catholique de Louvain,Introductory,Business & Management,Francés,Francés,3–6 hours per week,10 Weeks,150
+742,Solar Energy: Integration of Photovoltaic Systems in Microgrids,20068,Instructor-led on a course schedule,Delft University of Technology,Advanced,Engineering,Inglés,Inglés,10–11 hours per week,9 Weeks,250
+743,"Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability",12630,Self-paced on your time,Delft University of Technology,Intermediate,Computer Science,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+744,Probability and Statistics I:  A Gentle Introduction to Probability,0,Self-paced on your time,The Georgia Institute of Technology,Intermediate,Data Analysis & Statistics,Inglés,Inglés,6–10 hours per week,3 Weeks,199
+745,Introducción a las ecuaciones diferenciales,9868,Self-paced on your time,Universidad Galileo,Intermediate,Math,Español,Español,4–6 hours per week,7 Weeks,49
+746,Agile Mindset Introduction,0,Self-paced on your time,Rolls-Royce,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–5 hours per week,2 Weeks,49
+747,Tropical coastal ecosystems,23031,Self-paced on your time,The University of Queensland,Introductory,Biology & Life Sciences,Inglés,Inglés,4–5 hours per week,9 Weeks,99
+748,Modern China’s Foundations: The Manchus and the Qing,47166,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+749,El método de ciencia de datos,0,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Español,Español,3–7 hours per week,7 Weeks,39
+750,AWS Developer: Deploying on AWS,25244,Self-paced on your time,Amazon Web Services,Advanced,Computer Science,Inglés,Inglés,3–4 hours per week,6 Weeks,149
+751,Autonomous Mobile Robots,62362,Self-paced on your time,ETH Zurich,Intermediate,Computer Science,Inglés,Inglés,4–8 hours per week,15 Weeks,50
+752,Gestión por resultados para gobiernos subnacionales,65955,Self-paced on your time,Inter-American Development Bank,Introductory,Business & Management,Español,Español,3–4 hours per week,10 Weeks,25
+753,Introduction to Sociology,10412,Self-paced on your time,The University of Texas of the Permian Basin,Introductory,Social Sciences,Inglés,Inglés,4–6 hours per week,6 Weeks,139
+754,Transformación digital en las empresas,0,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,Business & Management,Español,Español,5–6 hours per week,7 Weeks,49
+755,Desafios e oportunidades na economia digital,6913,Self-paced on your time,Inter-American Development Bank,Introductory,Economics & Finance,Portugués,Portugués,2–3 hours per week,10 Weeks,25
+756,"Cellular Solids Part 1: Structures, Properties and Engineering Applications",7186,Self-paced on your time,Massachusetts Institute of Technology,Advanced,Engineering,Inglés,Inglés,11–13 hours per week,9 Weeks,99
+757,Introduction to Statistical Methods for Gene Mapping,15419,Self-paced on your time,Kyoto University,Advanced,Data Analysis & Statistics,Inglés,Inglés,2–3 hours per week,4 Weeks,49
+758,Cómo vivir una vida saludable y activa,8990,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Social Sciences,Español,Español,3–4 hours per week,5 Weeks,49
+759,Mandarin Chinese Level 3,8418,Self-paced on your time,MandarinX,Intermediate,Language,Inglés,Inglés,4–10 hours per week,6 Weeks,149
+760,Databases: Advanced Topics in SQL,0,Self-paced on your time,Stanford University,Introductory,Computer Science,Inglés,Inglés,8–10 hours per week,2 Weeks,50
+761,Data for Effective Policy Making,13797,Self-paced on your time,Inter-American Development Bank,Introductory,Math,Inglés,Inglés,3–4 hours per week,10 Weeks,25
+762,C Programming: Using Linux Tools and Libraries,13912,Self-paced on your time,Dartmouth_IMTx-Dartmouth College-IMT,Intermediate,Computer Science,Inglés,Inglés,4–5 hours per week,7 Weeks,49
+763,Lernen objekt-orientierter Programmierung,10657,Instructor-led on a course schedule,Technische Universität München,Introductory,Computer Science,Alemán,Alemán,3–5 hours per week,6 Weeks,49
+764,Cybersecurity: The CISO's View,21507,Self-paced on your time,University of Washington,Introductory,Computer Science,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+765,Fundamentals of Java EE Development,10129,Self-paced on your time,Red Hat,Intermediate,Computer Science,Inglés,Inglés,1–3 hours per week,7 Weeks,99
+766,"Instructional Design: Digital Media, New Tools and Technology",16419,Self-paced on your time,University System of Maryland-University of Maryland Global Campus,Intermediate,Education & Teacher Training,Inglés,Inglés,8–10 hours per week,8 Weeks,299
+767,Molecular Biology – Part 3: RNA Processing and Translation,16520,Self-paced on your time,Massachusetts Institute of Technology,Advanced,Biology & Life Sciences,Inglés,"Inglés, Chino",4–8 hours per week,8 Weeks,99
+768,Power and Responsibility: Doing Philosophy with Superheroes,8517,Self-paced on your time,The Smithsonian Institution,Introductory,Art & Culture,Inglés,Inglés,1–5 hours per week,5 Weeks,49
+769,Aprendizaje automático y ciencia de datos,13994,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Computer Science,Español,Español,4–5 hours per week,5 Weeks,50
+770,Sustainable Urban Freight Transport: A Global Perspective,7769,Self-paced on your time,Delft University of Technology,Introductory,Engineering,Inglés,Inglés,4–6 hours per week,5 Weeks,50
+771,MathTrackX: Statistics,0,Self-paced on your time,University of Adelaide,Introductory,Math,Inglés,Inglés,3–6 hours per week,4 Weeks,79
+772,Técnicas Cuantitativas y Cualitativas para la Investigación,29885,Self-paced on your time,Universitat Politècnica de Valencia,Intermediate,Data Analysis & Statistics,Español,Español,2–3 hours per week,6 Weeks,65
+773,Strategic Applications of IT Project & Program Management,17914,Self-paced on your time,University of Washington,Introductory,Business & Management,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+774,Advanced Bioconductor,26063,Self-paced on your time,Harvard University,Advanced,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,4 Weeks,149
+775,What Every Provider Should Know: Clinical Fundamentals,0,Self-paced on your time,Stanford University,Introductory,Medicine,Inglés,Inglés,4–6 hours per week,10 Weeks,50
+776,Análisis e interpretación de información económica y financiera,5891,Self-paced on your time,Pontificia Universidad Javeriana,Intermediate,Economics & Finance,Español,Español,6–8 hours per week,5 Weeks,49
+777,AWS IoT: Developing and Deploying an Internet of Things,8884,Self-paced on your time,Amazon Web Services,Intermediate,Computer Science,Inglés,Inglés,2–5 hours per week,4 Weeks,99
+778,Measuring Sustainable Development,0,Self-paced on your time,SDG Academy,Intermediate,Data Analysis & Statistics,Inglés,Inglés,1–3 hours per week,5 Weeks,25
+779,Embedded Systems - Shape The World: Multi-Threaded Interfacing,27814,Self-paced on your time,The University of Texas at Austin,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,8 Weeks,49
+780,Hong Kong Cinema through a Global Lens | 全球化下的香港电影,12458,Instructor-led on a course schedule,University of Hong Kong,Introductory,Humanities,Inglés,"Inglés, Chino",4–6 hours per week,6 Weeks,50
+781,Image Processing and Analysis for Life Scientists,8621,Self-paced on your time,École polytechnique fédérale de Lausanne,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–3 hours per week,7 Weeks,199
+782,La protección del menor,7654,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Law,Español,Español,3–5 hours per week,5 Weeks,49
+783,Globalization: Past and Future,10127,Self-paced on your time,SDG Academy,Introductory,History,Inglés,"Inglés, Русский",2–4 hours per week,4 Weeks,25
+784,Star Trek: Inspiring Culture and Technology,6521,Self-paced on your time,The Smithsonian Institution,Introductory,History,Inglés,Inglés,1–3 hours per week,7 Weeks,40
+785,Qué funciona en educación: políticas educativas basadas en evidencia,15701,Self-paced on your time,Inter-American Development Bank,Introductory,Education & Teacher Training,Español,Español,3–4 hours per week,10 Weeks,25
+786,"Introduction to Cloud Development with HTML5, CSS3, and JavaScript",0,Self-paced on your time,IBM,Introductory,Computer Science,Inglés,Inglés,1–2 hours per week,4 Weeks,99
+787,Tools for Academic Engagement in Public Policy,5035,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Communication,Inglés,Inglés,1–3 hours per week,3 Weeks,199
+788,Theory of Change for Development,10736,Self-paced on your time,Wits University,Introductory,Social Sciences,Inglés,Inglés,3–4 hours per week,7 Weeks,199
+789,Monozukuri: Making Things,0,Self-paced on your time,Tokyo Institute of Technology,Introductory,Engineering,Inglés,Inglés,1–2 hours per week,4 Weeks,49
+790,Drug Discovery & Medicinal Chemistry,0,Self-paced on your time,Davidson College,Intermediate,Medicine,Inglés,Inglés,5–7 hours per week,5 Weeks,99
+791,Digital Biomaterials,0,Self-paced on your time,University of Hong Kong,Introductory,Medicine,Inglés,Inglés,2–4 hours per week,4 Weeks,149
+792,Natural Resources for Sustainable Development,9668,Self-paced on your time,SDG Academy,Intermediate,Energy & Earth Sciences,Inglés,"Árabe, Inglés, Español, Francés, Русский",4–6 hours per week,12 Weeks,49
+793,Omnichannel Strategy and Management,15860,Self-paced on your time,Dartmouth College,Intermediate,Business & Management,Inglés,Inglés,3–5 hours per week,4 Weeks,99
+794,General Overview of Cannabis and the Industry’s Outlook and Professions,5048,Self-paced on your time,Doane University,Introductory,Environmental Studies,Inglés,Inglés,5–10 hours per week,4 Weeks,199
+795,Amazon SageMaker: Simplifying Machine Learning Application Development,11765,Self-paced on your time,Amazon Web Services,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,4 Weeks,99
+796,Formulación y nomenclatura de compuestos químicos,12748,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Chemistry,Español,Español,3–4 hours per week,6 Weeks,49
+797,Introducción a la factura electrónica,5829,Self-paced on your time,LOGYCA,Intermediate,Economics & Finance,Español,Español,3–4 hours per week,4 Weeks,49
+798,Demand and Supply Analytics,23585,Instructor-led on a course schedule,Columbia University,Intermediate,Business & Management,Inglés,Inglés,8–10 hours per week,12 Weeks,249
+799,Advanced Algorithmics and Graph Theory with Python,13502,Self-paced on your time,IMT,Intermediate,Computer Science,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+800,Modern Japanese Architecture Part 1: From Meiji Restoration to the Pacific War,0,Self-paced on your time,Tokyo Institute of Technology,Intermediate,Architecture,Inglés,Inglés,3–5 hours per week,5 Weeks,59
+801,Diagramas UML estructurales para la Ingeniería del Software,5820,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Computer Science,Español,Español,3–4 hours per week,5 Weeks,50
+802,"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing",6232,Self-paced on your time,Imperial College London,Intermediate,Math,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+803,Fundamentos de Mecánica para Ingeniería,14219,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Physics,Español,Español,3–4 hours per week,6 Weeks,49
+804,Leadership and Management for PM Practitioners in IT,21949,Self-paced on your time,University of Washington,Introductory,Business & Management,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+805,Entrepreneurship 103: Show Me The Money,15184,Self-paced on your time,Massachusetts Institute of Technology,Introductory,Business & Management,Inglés,Inglés,2–4 hours per week,10 Weeks,300
+806,Historia de la ética,9383,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Philosophy & Ethics,Español,Español,1–3 hours per week,6 Weeks,29
+807,Drainage in Agriculture: controlling water and salt levels in the soil,0,Self-paced on your time,Wageningen University & Research,Advanced,Environmental Studies,Inglés,Inglés,18–20 hours per week,5 Weeks,49
+808,Radio para internet con Podcast: creación y conceptos básicos,6460,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Communication,Español,Español,3–4 hours per week,6 Weeks,50
+809,Introducción a los circuitos eléctricos,11953,Self-paced on your time,Universidad Galileo,Intermediate,Electronics,Español,Español,6–8 hours per week,5 Weeks,49
+810,AP® Physics 1: Challenging Concepts,12145,Self-paced on your time,Davidson Next,Introductory,Physics,Inglés,Inglés,2–4 hours per week,8 Weeks,49
+811,Introduction to Java Programming – Part 2,71203,Self-paced on your time,The Hong Kong University of Science and Technology,Introductory,Computer Science,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+812,AP® Macroeconomics,29433,Self-paced on your time,Davidson Next,Introductory,Economics & Finance,Inglés,Inglés,2–4 hours per week,18 Weeks,49
+813,Climate Change Education,12056,Self-paced on your time,Inter-American Development Bank,Introductory,Education & Teacher Training,Inglés,"Inglés, Español",4–5 hours per week,10 Weeks,25
+814,"Introducción al griego clásico: verbos, oraciones y filosofía",0,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Language,Español,Español,4–5 hours per week,5 Weeks,49
+815,Applied Deep Learning Capstone Project,8429,Self-paced on your time,IBM,Advanced,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,99
+816,FinTech Ethics and Risks,10696,Self-paced on your time,University of Hong Kong,Introductory,Economics & Finance,Inglés,"Inglés, Inglés, Chino, Chino",1–5 hours per week,6 Weeks,199
+817,User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,23828,Self-paced on your time,Tsinghua University,Advanced,Engineering,Inglés,Inglés,1–5 hours per week,7 Weeks,139
+818,The Conquest of Space: Space Exploration and Rocket Science,19926,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Engineering,Inglés,Inglés,3–4 hours per week,7 Weeks,129
+819,Business Strategy and Operations in a Biobased Economy,0,Self-paced on your time,Wageningen University & Research,Advanced,Business & Management,Inglés,Inglés,12–16 hours per week,5 Weeks,149
+820,What Works in Education: Evidence-Based Education Policies,5540,Self-paced on your time,Inter-American Development Bank,Introductory,Education & Teacher Training,Inglés,Inglés,3–4 hours per week,10 Weeks,25
+821,Electric Cars: Business,14199,Self-paced on your time,Delft University of Technology,Intermediate,Business & Management,Inglés,Inglés,4–5 hours per week,4 Weeks,50
+822,Thermodynamics of Materials,0,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Engineering,Inglés,Inglés,9–12 hours per week,16 Weeks,150
+823,Mechanics: Momentum and Energy,14846,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Physics,Inglés,Inglés,10–12 hours per week,14 Weeks,49
+824,Co-Creating Sustainable Cities,12415,Self-paced on your time,Delft University of Technology-Wageningen University & Research-Delft University & Wageningen University,Advanced,Social Sciences,Inglés,Inglés,6–8 hours per week,8 Weeks,49
+825,Cómo educar teniendo en cuenta la muerte,0,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Education & Teacher Training,Español,Español,2–5 hours per week,3 Weeks,49
+826,Introduction to Animal Ethics,6608,Self-paced on your time,Kyoto University,Introductory,Philosophy & Ethics,Inglés,Inglés,2–3 hours per week,5 Weeks,49
+827,Teamwork & Collaboration,0,Self-paced on your time,Rochester Institute of Technology,Introductory,Communication,Inglés,Inglés,4–6 hours per week,3 Weeks,199
+828,Grant Writing and Crowdfunding for Public Libraries,12853,Self-paced on your time,The University of Michigan,Introductory,Humanities,Inglés,Inglés,2–3 hours per week,4 Weeks,49
+829,Leading Ambitious Teaching and Learning,24273,Self-paced on your time,The University of Michigan-Microsoft Education,Advanced,Education & Teacher Training,Inglés,Inglés,2–4 hours per week,6 Weeks,199
+830,Financing Innovative Ventures,0,Self-paced on your time,"The University of Maryland, College Park-University System of Maryland",Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,149
+831,"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",0,Self-paced on your time,Imperial College London,Intermediate,Math,Inglés,Inglés,2–4 hours per week,7 Weeks,49
+832,Theories of Media and Technology,0,Instructor-led on a course schedule,New York University,Introductory,Art & Culture,Inglés,Inglés,8–10 hours per week,14 Weeks,249
+833,Introducción a la Estructura de la Materia,11859,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Chemistry,Español,Español,3–4 hours per week,4 Weeks,25
+834,"Batteries, Fuel Cells, and their Role in Modern Society",11865,Self-paced on your time,Ural Federal University,Introductory,Science,Inglés,Inglés,2–4 hours per week,6 Weeks,49
+835,Communication Skills for Dialoguing Across Difference,60943,Self-paced on your time,Catalyst,Introductory,Communication,Inglés,Inglés,1–2 hours per week,1 Weeks,25
+836,Social Media: How Media Got Social,13616,Self-paced on your time,Curtin University,Introductory,Communication,Inglés,Inglés,2–3 hours per week,4 Weeks,139
+837,"Portfolio Management, Governance, & the PMO",17299,Self-paced on your time,University of Washington,Introductory,Business & Management,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+838,edX101: Overview of Creating an edX Course,22327,Self-paced on your time,edX,Introductory,Education & Teacher Training,Inglés,Inglés,1–2 hours per week,1 Weeks,99
+839,"Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones",0,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Education & Teacher Training,Español,Español,3–4 hours per week,4 Weeks,49
+840,Data Analysis for Decision Making,8342,Instructor-led on a course schedule,"The University of Maryland, College Park-University System of Maryland",Advanced,Business & Management,Inglés,Inglés,8–10 hours per week,7 Weeks,214
+841,UML Class Diagrams for Software Engineering,33710,Self-paced on your time,KU Leuven University,Introductory,Computer Science,Inglés,Inglés,4–5 hours per week,3 Weeks,49
+842,Driving Digital Innovation through Experimentation,16904,Instructor-led on a course schedule,Boston University,Advanced,Computer Science,Inglés,Inglés,3–5 hours per week,6 Weeks,399
+843,Compilation Basics for Macroeconomic Statistics,6570,Self-paced on your time,The International Monetary Fund,Introductory,Data Analysis & Statistics,Inglés,Inglés,3–6 hours per week,4 Weeks,25
+844,Seguridad Vial en América Latina y el Caribe: de la teoría a la acción,20189,Self-paced on your time,Inter-American Development Bank,Introductory,Engineering,Español,Español,2–3 hours per week,10 Weeks,25
+845,From Fossil Resources to Biomass: A Chemistry Perspective,5464,Self-paced on your time,Wageningen University & Research,Advanced,Energy & Earth Sciences,Inglés,Inglés,20–28 hours per week,5 Weeks,149
+846,System Dynamics for Health Sciences,15157,Self-paced on your time,Wits University,Intermediate,Medicine,Inglés,Inglés,2–4 hours per week,9 Weeks,139
+847,Internet de las cosas (IoT) y Big Data,0,Self-paced on your time,Universidad del Rosario,Intermediate,Data Analysis & Statistics,Español,Español,4–6 hours per week,4 Weeks,49
+848,Introducción a Ciencias de Datos y Estadística Básica para Negocios,0,Self-paced on your time,Tecnológico de Monterrey,Advanced,Data Analysis & Statistics,Español,Español,5–8 hours per week,4 Weeks,49
+849,Introduction to Psychological Research Methods,17087,Self-paced on your time,The University of Queensland,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,7 Weeks,99
+850,Sustainable Packaging in a Circular Economy,6277,Self-paced on your time,Delft University of Technology,Intermediate,Design,Inglés,Inglés,3–4 hours per week,6 Weeks,50
+851,Design in Healthcare: Using Patient Journey Mapping,17946,Self-paced on your time,Delft University of Technology,Introductory,Design,Inglés,Inglés,3–4 hours per week,8 Weeks,129
+852,"El manejo de plagas, malezas y enfermedades en los Sistemas de Siembra Directa",0,Self-paced on your time,Universidad Nacional de Córdoba,Intermediate,Biology & Life Sciences,Español,"Inglés, Español",5–7 hours per week,4 Weeks,99
+853,"Electronic, Optical, and Magnetic Properties of Materials",9717,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Engineering,Inglés,Inglés,11–13 hours per week,15 Weeks,150
+854,La España del Quijote,13277,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,History,Español,Español,5–7 hours per week,7 Weeks,19
+855,Risk Management for Projects,22269,Self-paced on your time,University of Adelaide,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,5 Weeks,199
+856,Smithsonian’s Objects That Define America,9071,Self-paced on your time,The Smithsonian Institution,Introductory,Humanities,Inglés,Inglés,1–2 hours per week,5 Weeks,50
+857,Creating Modern China: The Republican Period to the Present,43045,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+858,Discover Political Science,6573,Instructor-led on a course schedule,Université catholique de Louvain,Intermediate,Social Sciences,Inglés,Inglés,4–6 hours per week,10 Weeks,50
+859,Data Science: Inferential Thinking through Simulations,17505,Self-paced on your time,"University of California, Berkeley",Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,5 Weeks,199
+860,Programming for Data Science,41268,Self-paced on your time,University of Adelaide,Introductory,Computer Science,Inglés,Inglés,8–10 hours per week,10 Weeks,199
+861,Public Sector Debt Statistics,0,Self-paced on your time,The International Monetary Fund,Intermediate,Economics & Finance,Inglés,Inglés,6–8 hours per week,6 Weeks,25
+862,Sensor Fusion and Non-linear Filtering for Automotive Systems,9709,Instructor-led on a course schedule,Chalmers University of Technology,Advanced,Engineering,Inglés,Inglés,10–20 hours per week,6 Weeks,299
+863,Creación musical con Soundcool: Introducción,0,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Music,Español,Español,4–5 hours per week,5 Weeks,30
+864,First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century,8222,Self-paced on your time,Harvard University,Introductory,Humanities,Inglés,Inglés,3–5 hours per week,3 Weeks,49
+865,The Quantum Internet and Quantum Computers: How Will They Change the World?,15014,Self-paced on your time,Delft University of Technology,Introductory,Science,Inglés,Inglés,2–3 hours per week,6 Weeks,50
+866,Research Methods: An Engineering Approach,20444,Self-paced on your time,Wits University,Introductory,Engineering,Inglés,Inglés,2–3 hours per week,8 Weeks,169
+867,Idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,15349,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Philosophy & Ethics,Español,Español,3–5 hours per week,5 Weeks,49
+868,Rise to Leadership: Become a CEO,16719,Self-paced on your time,Babson College,Intermediate,Business & Management,Inglés,Inglés,4–6 hours per week,4 Weeks,199
+869,Building a Cybersecurity Toolkit,23275,Self-paced on your time,University of Washington,Introductory,Computer Science,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+870,Marketing your Android apps,0,Self-paced on your time,Universidad Galileo,Intermediate,Engineering,Inglés,Inglés,6–8 hours per week,5 Weeks,49
+871,Embedded Systems Essentials with Arm: Getting Started,0,Self-paced on your time,Arm Education,Intermediate,Computer Science,Inglés,Inglés,3–6 hours per week,6 Weeks,149
+872,Life with Diabetes,12318,Self-paced on your time,Curtin University,Introductory,Medicine,Inglés,Inglés,3–4 hours per week,5 Weeks,139
+873,Human Reproduction,5517,Self-paced on your time,University of Adelaide,Intermediate,Biology & Life Sciences,Inglés,Inglés,2–3 hours per week,6 Weeks,169
+874,Enabling Technologies for Data Science and Analytics: The Internet of Things,71290,Self-paced on your time,Columbia University,Introductory,Computer Science,Inglés,Inglés,7–10 hours per week,5 Weeks,99
+875,Astrophysics: Exploring Exoplanets,48539,Self-paced on your time,Australian National University,Intermediate,Physics,Inglés,Inglés,2–4 hours per week,9 Weeks,50
+876,Unconventional Reservoir Geomechanics,0,Self-paced on your time,Stanford University,Introductory,Energy & Earth Sciences,Inglés,Inglés,6–8 hours per week,10 Weeks,129
+877,Strategic Account Management,0,Self-paced on your time,Queen’s University,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,149
+878,PyTorch Basics for Machine Learning,0,Self-paced on your time,IBM,Introductory,Data Analysis & Statistics,Inglés,Inglés,4–5 hours per week,5 Weeks,39
+879,Diseño y Desarrollo de Recursos Multimedia para la Enseñanza Virtual,14266,Self-paced on your time,Universidad Galileo,Intermediate,Humanities,Español,Español,4–5 hours per week,4 Weeks,49
+880,Introduction to Cloud Foundry and Cloud Native Software Architecture,24444,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,3–4 hours per week,14 Weeks,169
+881,Gestión de compras eficientes para tu empresa,0,Self-paced on your time,LOGYCA,Introductory,Engineering,Español,Español,3–5 hours per week,5 Weeks,25
+882,Know HBV And HCV,0,Self-paced on your time,Stanford University,Introductory,Medicine,Inglés,Inglés,1–5 hours per week,1 Weeks,50
+883,The Supreme Court & American Politics,6216,Self-paced on your time,University of Baltimore-University System of Maryland,Introductory,Law,Inglés,Inglés,4–7 hours per week,8 Weeks,29
+884,Sales Enablement & Analytics,0,Self-paced on your time,Queen’s University,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,149
+885,Inversión Extranjera como Motor del Desarrollo para América Latina y el Caribe,16423,Self-paced on your time,Inter-American Development Bank,Intermediate,Business & Management,Español,Español,3–4 hours per week,10 Weeks,25
+886,Liderazgo en la empresa familiar,10969,Self-paced on your time,Tecnológico de Monterrey,Intermediate,Business & Management,Español,Español,7–8 hours per week,6 Weeks,49
+887,Comparative Political Systems,6934,Self-paced on your time,Università degli Studi di Napoli Federico II,Introductory,Social Sciences,Inglés,Inglés,4–6 hours per week,6 Weeks,59
+888,Introducción al Derecho en la vida cotidiana,0,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Law,Español,Español,5–6 hours per week,5 Weeks,49
+889,Cloud Computing for Enterprises,27241,Instructor-led on a course schedule,University System of Maryland-University of Maryland Global Campus,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,8 Weeks,299
+890,Diversity and Social Justice in Social Work,11055,Self-paced on your time,The University of Michigan,Advanced,Social Sciences,Inglés,Inglés,8–10 hours per week,8 Weeks,199
+891,Public Library Marketing and Public Relations,7525,Self-paced on your time,The University of Michigan,Introductory,Humanities,Inglés,Inglés,2–3 hours per week,4 Weeks,49
+892,"Healthcare Finance, Economics and Risk",8006,Self-paced on your time,Doane University,Intermediate,Economics & Finance,Inglés,Inglés,5–10 hours per week,5 Weeks,199
+893,Reacciones Químicas y Cálculos Estequiométricos,8907,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Chemistry,Español,Español,3–4 hours per week,6 Weeks,49
+894,Seeking Women’s Rights: Colonial Period to the Civil War,5157,Self-paced on your time,Columbia University,Intermediate,History,Inglés,Inglés,2–3 hours per week,10 Weeks,50
+895,VideoX: Creating Video for the edX Platform,12159,Self-paced on your time,edX,Introductory,Education & Teacher Training,Inglés,Inglés,2–4 hours per week,2 Weeks,99
+896,Comisión de la Verdad Colombia,0,Self-paced on your time,Pontificia Universidad Javeriana,Introductory,History,Español,Español,7–10 hours per week,5 Weeks,29
+897,MathTrackX: Probability,0,Self-paced on your time,University of Adelaide,Introductory,Math,Inglés,Inglés,3–6 hours per week,4 Weeks,79
+898,Health Informatics for better and safer healthcare,0,Self-paced on your time,IsraelX,Introductory,Health & Safety,Inglés,Inglés,3–4 hours per week,4 Weeks,49
+899,Sign Language Science: Factors Contributing to Natural Change,0,Self-paced on your time,Georgetown University,Introductory,Language,Inglés,Inglés,3–5 hours per week,4 Weeks,99
+900,Accounting System Structure and Information Management,0,Self-paced on your time,NYIF,Introductory,Economics & Finance,Inglés,Inglés,1–2 hours per week,4 Weeks,50
+901,Sustainable Development: The Post-Capitalist Order,7031,Self-paced on your time,SDG Academy,Introductory,Economics & Finance,Inglés,Inglés,2–4 hours per week,8 Weeks,49
+902,"Health Law, Policy, and Advocacy",6358,Self-paced on your time,Doane University,Intermediate,Law,Inglés,Inglés,5–10 hours per week,5 Weeks,199
+903,Introduction to Haptics,0,Self-paced on your time,Stanford University,Introductory,Engineering,Inglés,Inglés,1–10 hours per week,5 Weeks,129
+904,Gestión de inventario y portafolio,0,Self-paced on your time,LOGYCA,Introductory,Engineering,Español,Español,3–5 hours per week,5 Weeks,25
+905,Understanding Nuclear Energy,16015,Self-paced on your time,Delft University of Technology,Intermediate,Engineering,Inglés,Inglés,4–6 hours per week,6 Weeks,50
+906,Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),11431,Self-paced on your time,Catalyst,Introductory,Business & Management,Español,Español,1–2 hours per week,4 Weeks,50
+907,Decision Making Under Uncertainty: Introduction to Structured Expert Judgment,0,Self-paced on your time,Delft University of Technology,Introductory,Business & Management,Inglés,Inglés,4–6 hours per week,6 Weeks,50
+908,AP® Calculus BC,8542,Self-paced on your time,Davidson Next,Introductory,Math,Inglés,Inglés,2–4 hours per week,11 Weeks,49
+909,Advanced Linear Algebra: Foundations to Frontiers,0,Self-paced on your time,The University of Texas at Austin,Advanced,Computer Science,Inglés,Inglés,8–12 hours per week,16 Weeks,49
+910,Entrepreneurial Opportunities,27182,Self-paced on your time,University of Adelaide,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,5 Weeks,50
+911,Agua en América Latina: Abundancia en medio de la escasez mundial,38581,Self-paced on your time,Inter-American Development Bank,Introductory,Environmental Studies,Español,Español,3–4 hours per week,10 Weeks,25
+912,Understanding Political Concepts,7421,Self-paced on your time,Università degli Studi di Napoli Federico II,Introductory,Social Sciences,Inglés,Inglés,4–6 hours per week,6 Weeks,59
+913,How to Code: Complex Data,34190,Self-paced on your time,University of British Columbia,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,6 Weeks,125
+914,Hypersonics – from Shock Waves to Scramjets,19043,Self-paced on your time,The University of Queensland,Advanced,Engineering,Inglés,Inglés,4–8 hours per week,4 Weeks,99
+915,Micro and Nanofabrication (MEMS),16094,Self-paced on your time,École polytechnique fédérale de Lausanne,Advanced,Engineering,Inglés,"Inglés, Francés",3–5 hours per week,7 Weeks,199
+916,Scientific Methods and Research,7501,Self-paced on your time,Ural Federal University,Intermediate,Science,Inglés,Inglés,3–4 hours per week,5 Weeks,49
+917,Customer Centric Marketing for Entrepreneurs,14003,Self-paced on your time,Babson College,Intermediate,Business & Management,Inglés,Inglés,4–6 hours per week,4 Weeks,149
+918,Dog Behavior: Problems and Solutions,16467,Self-paced on your time,Arizona State University,Intermediate,Social Sciences,Inglés,Inglés,4–10 hours per week,3 Weeks,169
+919,The Business of Mining,20406,Self-paced on your time,Curtin University,Introductory,Business & Management,Inglés,Inglés,2–3 hours per week,4 Weeks,139
+920,"Social Work Practice in Community Organization, Management and Policy/Evaluation",9522,Self-paced on your time,The University of Michigan,Advanced,Social Sciences,Inglés,Inglés,8–10 hours per week,8 Weeks,199
+921,The Business of Aging in the Longevity Economy,0,Self-paced on your time,Georgetown University,Introductory,Social Sciences,Inglés,Inglés,1–2 hours per week,4 Weeks,139
+922,Understanding the Australian Health Care System,8343,Self-paced on your time,The University of Queensland,Introductory,Medicine,Inglés,Inglés,1–2 hours per week,9 Weeks,59
+923,Age of Sustainable Development,10019,Self-paced on your time,SDG Academy,Intermediate,Social Sciences,Inglés,"Inglés, Portugués, Русский",4–6 hours per week,14 Weeks,49
+924,Internationalization: Creating Digital Content for the World,0,Self-paced on your time,University of Washington,Advanced,Computer Science,Inglés,Inglés,2–5 hours per week,4 Weeks,199
+925,Multi-Object Tracking for Automotive Systems,8581,Instructor-led on a course schedule,Chalmers University of Technology,Advanced,Engineering,Inglés,Inglés,10–20 hours per week,10 Weeks,249
+926,Economics and Policies in a Biobased Economy,0,Self-paced on your time,Wageningen University & Research,Advanced,Energy & Earth Sciences,Inglés,Inglés,12–20 hours per week,4 Weeks,149
+927,Strategic Leadership in Healthcare,6237,Self-paced on your time,Doane University,Intermediate,Business & Management,Inglés,Inglés,5–10 hours per week,5 Weeks,199
+928,Terrorism and Counterterrorism: An Introduction,14128,Self-paced on your time,Georgetown University,Introductory,Humanities,Inglés,Inglés,8–10 hours per week,3 Weeks,49
+929,Exploring Psychology's Core Concepts|走进心理学,5741,Self-paced on your time,Tsinghua University,Introductory,Social Sciences,Inglés,Inglés,3–5 hours per week,6 Weeks,139
+930,Creating Virtual Reality (VR) Apps,22349,Self-paced on your time,"The University of California, San Diego",Intermediate,Computer Science,Inglés,Inglés,5–7 hours per week,6 Weeks,99
+931,Análisis Multivariable en SPSS,0,Self-paced on your time,Universidad Galileo,Introductory,Data Analysis & Statistics,Español,Español,4–5 hours per week,5 Weeks,49
+932,Steps in Japanese for Beginners2 Part1,0,Self-paced on your time,Waseda University,Introductory,Language,Inglés,Inglés,3–5 hours per week,5 Weeks,99
+933,"Competencias para buscar, mantener y promocionar en un empleo",0,Self-paced on your time,Universidad Autónoma de Madrid,Introductory,Social Sciences,Español,Español,3–5 hours per week,4 Weeks,49
+934,Dynamics and Control,27763,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Engineering,Inglés,Inglés,4–5 hours per week,6 Weeks,50
+935,Finding Your Cybersecurity Career Path,19283,Self-paced on your time,University of Washington,Introductory,Computer Science,Inglés,Inglés,2–5 hours per week,6 Weeks,199
+936,Introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,12674,Self-paced on your time,Universidad Carlos III de Madrid,Introductory,Humanities,Español,Español,3–4 hours per week,6 Weeks,29
+937,Mechanics: Rotational Dynamics,13183,Self-paced on your time,Massachusetts Institute of Technology,Intermediate,Physics,Inglés,Inglés,10–12 hours per week,12 Weeks,49
+938,Applying Health Coaching in Patient Care,0,Self-paced on your time,Doane University,Introductory,Medicine,Inglés,Inglés,5–10 hours per week,3 Weeks,199
+939,Databases: Modeling and Theory,0,Self-paced on your time,Stanford University,Introductory,Computer Science,Inglés,Inglés,8–10 hours per week,2 Weeks,50
+940,"Islamic Banking: Principles, Practice and Risk Management",0,Self-paced on your time,The Islamic Research and Training Institute,Introductory,Economics & Finance,Inglés,Inglés,3–6 hours per week,4 Weeks,49
+941,Liderazgo orientado al florecimiento humano,7911,Self-paced on your time,Tecnológico de Monterrey,Introductory,Business & Management,Español,Español,5–8 hours per week,4 Weeks,149
+942,Software Construction: Object-Oriented Design,23100,Self-paced on your time,University of British Columbia,Intermediate,Computer Science,Inglés,Inglés,8–10 hours per week,6 Weeks,125
+943,"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",0,Self-paced on your time,The Linux Foundation,Introductory,Computer Science,Inglés,Inglés,2–3 hours per week,7 Weeks,199
+944,Fondements de l’économie sociale et solidaire,0,Instructor-led on a course schedule,Université catholique de Louvain,Intermediate,Social Sciences,Francés,Francés,2–3 hours per week,12 Weeks,50
+945,The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,17941,Self-paced on your time,Columbia University,Introductory,History,Inglés,Inglés,6–8 hours per week,12 Weeks,50
+946,Innovation Strategies for Electric Mobility: The StreetScooter Case,0,Self-paced on your time,RWTH Aachen University,Intermediate,Business & Management,Inglés,Inglés,2–4 hours per week,6 Weeks,99
+947,Sustainable Energy,0,Instructor-led on a course schedule,Massachusetts Institute of Technology,Advanced,Energy & Earth Sciences,Inglés,Inglés,8–12 hours per week,13 Weeks,149
+948,Designing and Leading Learning Systems,11895,Self-paced on your time,The University of Michigan,Advanced,Education & Teacher Training,Inglés,Inglés,2–4 hours per week,8 Weeks,199
+949,How the U.S. Government Works & How to Get Involved,5930,Self-paced on your time,Georgetown University,Introductory,Social Sciences,Inglés,Inglés,4–5 hours per week,6 Weeks,49
+950,Inspiring and Motivating Arts and Culture Teams,10817,Self-paced on your time,The University of Michigan,Introductory,Business & Management,Inglés,Inglés,3–5 hours per week,5 Weeks,49
+951,Principles of Microeconomics: An Economist Way of Thinking,0,Self-paced on your time,The University of Queensland,Intermediate,Economics & Finance,Inglés,Inglés,1–2 hours per week,6 Weeks,149
+952,A System View of Communications: From Signals to Packets (Part 1),34261,Self-paced on your time,The Hong Kong University of Science and Technology,Introductory,Computer Science,Inglés,Inglés,4–6 hours per week,7 Weeks,60
+953,"Invasions, Rebellions, and the Fall of Imperial China",41537,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+954,AP® English Literature & Composition – Part 3: Plays,6443,Self-paced on your time,"University of California, Berkeley",Introductory,Humanities,Inglés,Inglés,4–5 hours per week,7 Weeks,49
+955,Cómo implantar grupos de mejora de procesos,28100,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Business & Management,Español,Español,3–4 hours per week,8 Weeks,150
+956,Proteins: Biology's Workforce,25893,Self-paced on your time,Rice University,Intermediate,Biology & Life Sciences,Inglés,Inglés,4–6 hours per week,5 Weeks,169
+957,Introducción a los ritmos y relojes biológicos,6149,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Science,Español,"Inglés, Español",6–8 hours per week,4 Weeks,50
+958,Linear Algebra I: Linear Equations,0,Self-paced on your time,The Georgia Institute of Technology,Intermediate,Math,Inglés,Inglés,5–6 hours per week,3 Weeks,199
+959,"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",10205,Self-paced on your time,École polytechnique fédérale de Lausanne,Advanced,Engineering,Inglés,Inglés,4–5 hours per week,7 Weeks,169
+960,Fundamentos de Electromagnetismo para Ingeniería,15040,Self-paced on your time,Universitat Politècnica de Valencia,Introductory,Physics,Español,Español,4–5 hours per week,7 Weeks,49
+961,Sustainable Food Systems: A Mediterranean Perspective,6480,Self-paced on your time,SDG Academy,Intermediate,Food & Nutrition,Inglés,"Inglés, Francés, Italiano",2–4 hours per week,10 Weeks,49
+962,Scripting and Programming Foundations,0,Self-paced on your time,Western Governors University,Introductory,Computer Science,Inglés,Inglés,9–10 hours per week,8 Weeks,299
+963,Using GPUs to Scale and Speed-up Deep Learning,9294,Self-paced on your time,IBM,Intermediate,Data Analysis & Statistics,Inglés,Inglés,2–4 hours per week,5 Weeks,99
+964,StudioX: Creating a Course with edX Studio,20355,Self-paced on your time,edX,Introductory,Education & Teacher Training,Inglés,Inglés,4–6 hours per week,3 Weeks,99
+965,The Power of Data,0,Self-paced on your time,Rolls-Royce,Introductory,Data Analysis & Statistics,Inglés,Inglés,1–5 hours per week,2 Weeks,49
+966,Introducción a las ondas gravitacionales,8657,Self-paced on your time,Universidad Nacional de Córdoba,Introductory,Science,Español,"Inglés, Español",5–7 hours per week,4 Weeks,50
+967,Drones and Autonomous Systems 2: Applications in Emergency Management,0,Self-paced on your time,University of Maryland Global Campus-University System of Maryland,Intermediate,Science,Inglés,Inglés,2–3 hours per week,6 Weeks,149
+968,MathTrackX: Differential Calculus,0,Self-paced on your time,University of Adelaide,Introductory,Math,Inglés,Inglés,3–6 hours per week,4 Weeks,79
+969,Global China: From the Mongols to the Ming,41902,Self-paced on your time,Harvard University,Introductory,History,Inglés,"Inglés, Chino",1–3 hours per week,15 Weeks,139
+970,Leaders in Citizen Security and Justice Management for the Caribbean,0,Self-paced on your time,Inter-American Development Bank,Intermediate,Social Sciences,Inglés,Inglés,4–5 hours per week,10 Weeks,25
+971,Pattern Studying and Making | 图案审美与创作,0,Self-paced on your time,Tsinghua University,Introductory,Art & Culture,Chino,"Inglés, Chino",3–5 hours per week,12 Weeks,139
+972,Computational Neuroscience: Neuronal Dynamics of Cognition,11246,Self-paced on your time,École polytechnique fédérale de Lausanne,Advanced,Biology & Life Sciences,Inglés,Inglés,4–6 hours per week,6 Weeks,139
+973,Cities and the Challenge of Sustainable Development,8775,Self-paced on your time,SDG Academy,Introductory,Environmental Studies,Inglés,Inglés,1–2 hours per week,1 Weeks,25
+974,MathTrackX: Special Functions,0,Self-paced on your time,University of Adelaide,Introductory,Math,Inglés,Inglés,3–6 hours per week,4 Weeks,79
